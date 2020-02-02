@@ -1,0 +1,1281 @@
+location_id,location_name,sex_id,sex_name,age_id,age_name,cause_id,cause_name,year,deaths_number,upper_deaths_number,lower_deaths_number
+6,China,1,Male,1,Under 5,298,HIV/AIDS,2010,611,691,546
+6,China,2,Female,1,Under 5,298,HIV/AIDS,2010,471,536,414
+6,China,1,Male,23,5-14 years,298,HIV/AIDS,2010,118,138,99
+6,China,2,Female,23,5-14 years,298,HIV/AIDS,2010,95,112,79
+6,China,1,Male,24,15-49 years,298,HIV/AIDS,2010,9298,9597,9041
+6,China,2,Female,24,15-49 years,298,HIV/AIDS,2010,3400,3498,3315
+6,China,1,Male,25,50-69 years,298,HIV/AIDS,2010,3322,3489,3162
+6,China,2,Female,25,50-69 years,298,HIV/AIDS,2010,1234,1295,1167
+6,China,1,Male,26,70+ years,298,HIV/AIDS,2010,1090,1158,1037
+6,China,2,Female,26,70+ years,298,HIV/AIDS,2010,253,270,239
+81,Germany,1,Male,1,Under 5,491,Cardiovascular diseases,2010,18,21,15
+81,Germany,2,Female,1,Under 5,491,Cardiovascular diseases,2010,15,19,13
+81,Germany,1,Male,23,5-14 years,491,Cardiovascular diseases,2010,15,18,13
+81,Germany,2,Female,23,5-14 years,491,Cardiovascular diseases,2010,12,14,11
+81,Germany,1,Male,24,15-49 years,491,Cardiovascular diseases,2010,4407,4635,4182
+81,Germany,2,Female,24,15-49 years,491,Cardiovascular diseases,2010,1656,1753,1562
+81,Germany,1,Male,25,50-69 years,491,Cardiovascular diseases,2010,29801,30803,28788
+81,Germany,2,Female,25,50-69 years,491,Cardiovascular diseases,2010,10735,11265,10247
+81,Germany,1,Male,26,70+ years,491,Cardiovascular diseases,2010,112074,114894,109626
+81,Germany,2,Female,26,70+ years,491,Cardiovascular diseases,2010,166996,171011,163337
+80,France,1,Male,1,Under 5,491,Cardiovascular diseases,2010,28,34,24
+80,France,2,Female,1,Under 5,491,Cardiovascular diseases,2010,26,31,21
+80,France,1,Male,23,5-14 years,491,Cardiovascular diseases,2010,15,17,13
+80,France,2,Female,23,5-14 years,491,Cardiovascular diseases,2010,14,17,12
+80,France,1,Male,24,15-49 years,491,Cardiovascular diseases,2010,2531,2689,2378
+80,France,2,Female,24,15-49 years,491,Cardiovascular diseases,2010,968,1032,907
+80,France,1,Male,25,50-69 years,491,Cardiovascular diseases,2010,13079,13634,12541
+80,France,2,Female,25,50-69 years,491,Cardiovascular diseases,2010,4317,4551,4076
+80,France,1,Male,26,70+ years,491,Cardiovascular diseases,2010,54755,56590,53081
+80,France,2,Female,26,70+ years,491,Cardiovascular diseases,2010,72305,74307,70469
+80,France,1,Male,1,Under 5,298,HIV/AIDS,2010,2,2,2
+80,France,2,Female,1,Under 5,298,HIV/AIDS,2010,4,5,4
+80,France,1,Male,23,5-14 years,298,HIV/AIDS,2010,2,2,1
+80,France,2,Female,23,5-14 years,298,HIV/AIDS,2010,2,2,2
+80,France,1,Male,24,15-49 years,298,HIV/AIDS,2010,216,228,204
+80,France,2,Female,24,15-49 years,298,HIV/AIDS,2010,101,107,95
+80,France,1,Male,25,50-69 years,298,HIV/AIDS,2010,196,208,186
+80,France,2,Female,25,50-69 years,298,HIV/AIDS,2010,59,64,55
+80,France,1,Male,26,70+ years,298,HIV/AIDS,2010,8,9,7
+80,France,2,Female,26,70+ years,298,HIV/AIDS,2010,4,5,4
+6,China,1,Male,1,Under 5,491,Cardiovascular diseases,2010,3026,3277,2846
+6,China,2,Female,1,Under 5,491,Cardiovascular diseases,2010,2000,2155,1880
+6,China,1,Male,23,5-14 years,491,Cardiovascular diseases,2010,1468,1542,1395
+6,China,2,Female,23,5-14 years,491,Cardiovascular diseases,2010,864,921,820
+6,China,1,Male,24,15-49 years,491,Cardiovascular diseases,2010,147452,152300,142326
+6,China,2,Female,24,15-49 years,491,Cardiovascular diseases,2010,64401,66877,62340
+6,China,1,Male,25,50-69 years,491,Cardiovascular diseases,2010,548675,563799,533195
+6,China,2,Female,25,50-69 years,491,Cardiovascular diseases,2010,309723,318644,300913
+6,China,1,Male,26,70+ years,491,Cardiovascular diseases,2010,1273714,1303007,1243642
+6,China,2,Female,26,70+ years,491,Cardiovascular diseases,2010,1259564,1293224,1205728
+67,Japan,1,Male,1,Under 5,298,HIV/AIDS,2011,9,9,8
+67,Japan,2,Female,1,Under 5,298,HIV/AIDS,2011,5,5,5
+67,Japan,1,Male,23,5-14 years,298,HIV/AIDS,2011,3,3,3
+67,Japan,2,Female,23,5-14 years,298,HIV/AIDS,2011,1,1,1
+67,Japan,1,Male,24,15-49 years,298,HIV/AIDS,2011,51,53,50
+67,Japan,2,Female,24,15-49 years,298,HIV/AIDS,2011,17,17,17
+67,Japan,1,Male,25,50-69 years,298,HIV/AIDS,2011,102,105,99
+67,Japan,2,Female,25,50-69 years,298,HIV/AIDS,2011,38,39,37
+67,Japan,1,Male,26,70+ years,298,HIV/AIDS,2011,7,7,7
+67,Japan,2,Female,26,70+ years,298,HIV/AIDS,2011,3,3,3
+81,Germany,1,Male,1,Under 5,298,HIV/AIDS,2010,3,3,2
+81,Germany,2,Female,1,Under 5,298,HIV/AIDS,2010,4,5,4
+81,Germany,1,Male,23,5-14 years,298,HIV/AIDS,2010,3,3,2
+81,Germany,2,Female,23,5-14 years,298,HIV/AIDS,2010,2,2,1
+81,Germany,1,Male,24,15-49 years,298,HIV/AIDS,2010,240,253,227
+81,Germany,2,Female,24,15-49 years,298,HIV/AIDS,2010,68,73,64
+81,Germany,1,Male,25,50-69 years,298,HIV/AIDS,2010,201,212,190
+81,Germany,2,Female,25,50-69 years,298,HIV/AIDS,2010,33,35,30
+81,Germany,1,Male,26,70+ years,298,HIV/AIDS,2010,19,21,17
+81,Germany,2,Female,26,70+ years,298,HIV/AIDS,2010,4,4,3
+135,Brazil,1,Male,1,Under 5,491,Cardiovascular diseases,2010,685,765,616
+135,Brazil,2,Female,1,Under 5,491,Cardiovascular diseases,2010,561,629,509
+135,Brazil,1,Male,23,5-14 years,491,Cardiovascular diseases,2010,306,325,278
+135,Brazil,2,Female,23,5-14 years,491,Cardiovascular diseases,2010,263,279,245
+135,Brazil,1,Male,24,15-49 years,491,Cardiovascular diseases,2010,19941,20346,19531
+135,Brazil,2,Female,24,15-49 years,491,Cardiovascular diseases,2010,12730,13002,12502
+135,Brazil,1,Male,25,50-69 years,491,Cardiovascular diseases,2010,66196,67118,65286
+135,Brazil,2,Female,25,50-69 years,491,Cardiovascular diseases,2010,41131,41793,40518
+135,Brazil,1,Male,26,70+ years,491,Cardiovascular diseases,2010,90074,91555,88673
+135,Brazil,2,Female,26,70+ years,491,Cardiovascular diseases,2010,100625,102041,99429
+67,Japan,1,Male,1,Under 5,491,Cardiovascular diseases,2011,51,54,47
+67,Japan,2,Female,1,Under 5,491,Cardiovascular diseases,2011,45,48,41
+67,Japan,1,Male,23,5-14 years,491,Cardiovascular diseases,2011,33,35,31
+67,Japan,2,Female,23,5-14 years,491,Cardiovascular diseases,2011,23,24,21
+67,Japan,1,Male,24,15-49 years,491,Cardiovascular diseases,2011,5740,5824,5657
+67,Japan,2,Female,24,15-49 years,491,Cardiovascular diseases,2011,2053,2091,2014
+67,Japan,1,Male,25,50-69 years,491,Cardiovascular diseases,2011,33051,33412,32689
+67,Japan,2,Female,25,50-69 years,491,Cardiovascular diseases,2011,11600,11761,11433
+67,Japan,1,Male,26,70+ years,491,Cardiovascular diseases,2011,121792,123503,120588
+67,Japan,2,Female,26,70+ years,491,Cardiovascular diseases,2011,162260,163893,160852
+135,Brazil,1,Male,1,Under 5,298,HIV/AIDS,2010,330,348,314
+135,Brazil,2,Female,1,Under 5,298,HIV/AIDS,2010,277,292,263
+135,Brazil,1,Male,23,5-14 years,298,HIV/AIDS,2010,119,124,114
+135,Brazil,2,Female,23,5-14 years,298,HIV/AIDS,2010,105,110,101
+135,Brazil,1,Male,24,15-49 years,298,HIV/AIDS,2010,7160,7266,7053
+135,Brazil,2,Female,24,15-49 years,298,HIV/AIDS,2010,3891,3964,3822
+135,Brazil,1,Male,25,50-69 years,298,HIV/AIDS,2010,2189,2241,2137
+135,Brazil,2,Female,25,50-69 years,298,HIV/AIDS,2010,1034,1066,1003
+135,Brazil,1,Male,26,70+ years,298,HIV/AIDS,2010,129,135,123
+135,Brazil,2,Female,26,70+ years,298,HIV/AIDS,2010,59,62,56
+214,Nigeria,1,Male,1,Under 5,298,HIV/AIDS,2010,11884,15294,8844
+214,Nigeria,2,Female,1,Under 5,298,HIV/AIDS,2010,11967,15110,9008
+214,Nigeria,1,Male,23,5-14 years,298,HIV/AIDS,2010,3305,4046,2572
+214,Nigeria,2,Female,23,5-14 years,298,HIV/AIDS,2010,2598,3256,1974
+214,Nigeria,1,Male,24,15-49 years,298,HIV/AIDS,2010,69367,92437,49713
+214,Nigeria,2,Female,24,15-49 years,298,HIV/AIDS,2010,82161,109673,59344
+214,Nigeria,1,Male,25,50-69 years,298,HIV/AIDS,2010,14581,18485,10940
+214,Nigeria,2,Female,25,50-69 years,298,HIV/AIDS,2010,12241,15399,9233
+214,Nigeria,1,Male,26,70+ years,298,HIV/AIDS,2010,1890,2712,1176
+214,Nigeria,2,Female,26,70+ years,298,HIV/AIDS,2010,1084,1658,537
+102,United States,1,Male,23,5-14 years,298,HIV/AIDS,2011,11,11,11
+102,United States,2,Female,23,5-14 years,298,HIV/AIDS,2011,13,14,13
+102,United States,1,Male,24,15-49 years,298,HIV/AIDS,2011,2894,2934,2856
+102,United States,2,Female,24,15-49 years,298,HIV/AIDS,2011,1434,1455,1414
+102,United States,1,Male,25,50-69 years,298,HIV/AIDS,2011,2805,2848,2763
+102,United States,2,Female,25,50-69 years,298,HIV/AIDS,2011,942,959,925
+102,United States,1,Male,26,70+ years,298,HIV/AIDS,2011,156,160,151
+102,United States,2,Female,26,70+ years,298,HIV/AIDS,2011,54,56,53
+80,France,1,Male,1,Under 5,298,HIV/AIDS,2012,2,2,2
+80,France,2,Female,1,Under 5,298,HIV/AIDS,2012,3,4,3
+80,France,1,Male,23,5-14 years,298,HIV/AIDS,2012,1,2,1
+80,France,2,Female,23,5-14 years,298,HIV/AIDS,2012,2,2,2
+80,France,1,Male,24,15-49 years,298,HIV/AIDS,2012,177,187,166
+80,France,2,Female,24,15-49 years,298,HIV/AIDS,2012,85,90,79
+80,France,1,Male,25,50-69 years,298,HIV/AIDS,2012,180,191,170
+80,France,2,Female,25,50-69 years,298,HIV/AIDS,2012,47,50,43
+80,France,1,Male,26,70+ years,298,HIV/AIDS,2012,7,8,7
+80,France,2,Female,26,70+ years,298,HIV/AIDS,2012,4,4,3
+214,Nigeria,1,Male,1,Under 5,491,Cardiovascular diseases,2010,1184,1562,891
+214,Nigeria,2,Female,1,Under 5,491,Cardiovascular diseases,2010,1297,1659,982
+214,Nigeria,1,Male,23,5-14 years,491,Cardiovascular diseases,2010,352,477,257
+214,Nigeria,2,Female,23,5-14 years,491,Cardiovascular diseases,2010,225,301,160
+214,Nigeria,1,Male,24,15-49 years,491,Cardiovascular diseases,2010,5155,7928,3242
+214,Nigeria,2,Female,24,15-49 years,491,Cardiovascular diseases,2010,4345,6719,2469
+214,Nigeria,1,Male,25,50-69 years,491,Cardiovascular diseases,2010,15915,23200,10810
+214,Nigeria,2,Female,25,50-69 years,491,Cardiovascular diseases,2010,13677,19956,8429
+214,Nigeria,1,Male,26,70+ years,491,Cardiovascular diseases,2010,29042,37153,22462
+214,Nigeria,2,Female,26,70+ years,491,Cardiovascular diseases,2010,31190,41301,21316
+6,China,1,Male,1,Under 5,491,Cardiovascular diseases,2011,2754,3007,2590
+6,China,2,Female,1,Under 5,491,Cardiovascular diseases,2011,1813,1958,1697
+6,China,1,Male,23,5-14 years,491,Cardiovascular diseases,2011,1356,1429,1291
+6,China,2,Female,23,5-14 years,491,Cardiovascular diseases,2011,858,915,814
+6,China,1,Male,24,15-49 years,491,Cardiovascular diseases,2011,150279,155562,144889
+6,China,2,Female,24,15-49 years,491,Cardiovascular diseases,2011,64014,66644,61764
+6,China,1,Male,25,50-69 years,491,Cardiovascular diseases,2011,575823,592686,558436
+6,China,2,Female,25,50-69 years,491,Cardiovascular diseases,2011,324756,335007,314966
+6,China,1,Male,26,70+ years,491,Cardiovascular diseases,2011,1301563,1333632,1269905
+6,China,2,Female,26,70+ years,491,Cardiovascular diseases,2011,1321582,1362612,1258844
+67,Japan,1,Male,1,Under 5,298,HIV/AIDS,2010,8,9,8
+67,Japan,2,Female,1,Under 5,298,HIV/AIDS,2010,5,5,5
+67,Japan,1,Male,23,5-14 years,298,HIV/AIDS,2010,2,2,2
+67,Japan,2,Female,23,5-14 years,298,HIV/AIDS,2010,1,1,1
+67,Japan,1,Male,24,15-49 years,298,HIV/AIDS,2010,53,54,52
+67,Japan,2,Female,24,15-49 years,298,HIV/AIDS,2010,18,19,18
+67,Japan,1,Male,25,50-69 years,298,HIV/AIDS,2010,104,107,101
+67,Japan,2,Female,25,50-69 years,298,HIV/AIDS,2010,40,41,39
+67,Japan,1,Male,26,70+ years,298,HIV/AIDS,2010,7,7,7
+67,Japan,2,Female,26,70+ years,298,HIV/AIDS,2010,3,3,3
+80,France,1,Male,1,Under 5,298,HIV/AIDS,2011,2,2,1
+80,France,2,Female,1,Under 5,298,HIV/AIDS,2011,3,4,3
+80,France,1,Male,23,5-14 years,298,HIV/AIDS,2011,1,2,1
+80,France,2,Female,23,5-14 years,298,HIV/AIDS,2011,2,2,2
+80,France,1,Male,24,15-49 years,298,HIV/AIDS,2011,184,194,174
+80,France,2,Female,24,15-49 years,298,HIV/AIDS,2011,79,84,73
+80,France,1,Male,25,50-69 years,298,HIV/AIDS,2011,171,181,161
+80,France,2,Female,25,50-69 years,298,HIV/AIDS,2011,49,53,45
+80,France,1,Male,26,70+ years,298,HIV/AIDS,2011,7,7,6
+80,France,2,Female,26,70+ years,298,HIV/AIDS,2011,3,4,3
+102,United States,1,Male,1,Under 5,491,Cardiovascular diseases,2011,281,296,250
+102,United States,2,Female,1,Under 5,491,Cardiovascular diseases,2011,234,248,210
+102,United States,1,Male,23,5-14 years,491,Cardiovascular diseases,2011,121,126,116
+102,United States,2,Female,23,5-14 years,491,Cardiovascular diseases,2011,107,112,101
+102,United States,1,Male,24,15-49 years,491,Cardiovascular diseases,2011,23327,23629,23008
+102,United States,2,Female,24,15-49 years,491,Cardiovascular diseases,2011,11547,11718,11324
+102,United States,1,Male,25,50-69 years,491,Cardiovascular diseases,2011,113544,114612,112444
+102,United States,2,Female,25,50-69 years,491,Cardiovascular diseases,2011,57557,58306,56885
+102,United States,1,Male,26,70+ years,491,Cardiovascular diseases,2011,261999,264915,258675
+102,United States,2,Female,26,70+ years,491,Cardiovascular diseases,2011,348594,351608,346007
+163,India,1,Male,1,Under 5,491,Cardiovascular diseases,2010,1969,2204,1751
+163,India,2,Female,1,Under 5,491,Cardiovascular diseases,2010,2124,2387,1838
+163,India,1,Male,23,5-14 years,491,Cardiovascular diseases,2010,1466,1693,1226
+163,India,2,Female,23,5-14 years,491,Cardiovascular diseases,2010,2315,2701,1956
+163,India,1,Male,24,15-49 years,491,Cardiovascular diseases,2010,202242,211896,193133
+163,India,2,Female,24,15-49 years,491,Cardiovascular diseases,2010,102136,106680,96590
+163,India,1,Male,25,50-69 years,491,Cardiovascular diseases,2010,515971,536464,489271
+163,India,2,Female,25,50-69 years,491,Cardiovascular diseases,2010,309919,325718,286287
+163,India,1,Male,26,70+ years,491,Cardiovascular diseases,2010,505858,540831,453932
+163,India,2,Female,26,70+ years,491,Cardiovascular diseases,2010,451862,496368,404119
+81,Germany,1,Male,1,Under 5,491,Cardiovascular diseases,2011,18,21,15
+81,Germany,2,Female,1,Under 5,491,Cardiovascular diseases,2011,15,18,12
+81,Germany,1,Male,23,5-14 years,491,Cardiovascular diseases,2011,15,17,13
+81,Germany,2,Female,23,5-14 years,491,Cardiovascular diseases,2011,12,14,10
+81,Germany,1,Male,24,15-49 years,491,Cardiovascular diseases,2011,4101,4315,3865
+81,Germany,2,Female,24,15-49 years,491,Cardiovascular diseases,2011,1588,1679,1493
+81,Germany,1,Male,25,50-69 years,491,Cardiovascular diseases,2011,28245,29173,27268
+81,Germany,2,Female,25,50-69 years,491,Cardiovascular diseases,2011,10400,10910,9935
+81,Germany,1,Male,26,70+ years,491,Cardiovascular diseases,2011,113173,116328,110590
+81,Germany,2,Female,26,70+ years,491,Cardiovascular diseases,2011,168812,172767,165093
+67,Japan,1,Male,1,Under 5,491,Cardiovascular diseases,2010,53,56,49
+67,Japan,2,Female,1,Under 5,491,Cardiovascular diseases,2010,46,49,42
+67,Japan,1,Male,23,5-14 years,491,Cardiovascular diseases,2010,32,33,30
+67,Japan,2,Female,23,5-14 years,491,Cardiovascular diseases,2010,24,25,22
+67,Japan,1,Male,24,15-49 years,491,Cardiovascular diseases,2010,5900,5983,5819
+67,Japan,2,Female,24,15-49 years,491,Cardiovascular diseases,2010,2041,2077,2003
+67,Japan,1,Male,25,50-69 years,491,Cardiovascular diseases,2010,33645,34031,33288
+67,Japan,2,Female,25,50-69 years,491,Cardiovascular diseases,2010,11659,11825,11496
+67,Japan,1,Male,26,70+ years,491,Cardiovascular diseases,2010,117845,119597,116645
+67,Japan,2,Female,26,70+ years,491,Cardiovascular diseases,2010,154215,156130,152636
+163,India,1,Male,1,Under 5,298,HIV/AIDS,2010,2367,2723,2075
+163,India,2,Female,1,Under 5,298,HIV/AIDS,2010,2189,2510,1921
+163,India,1,Male,23,5-14 years,298,HIV/AIDS,2010,1322,1462,1191
+163,India,2,Female,23,5-14 years,298,HIV/AIDS,2010,1161,1276,1049
+163,India,1,Male,24,15-49 years,298,HIV/AIDS,2010,61632,65129,58194
+163,India,2,Female,24,15-49 years,298,HIV/AIDS,2010,48056,51150,45097
+163,India,1,Male,25,50-69 years,298,HIV/AIDS,2010,8677,9468,7912
+163,India,2,Female,25,50-69 years,298,HIV/AIDS,2010,6592,7093,6046
+163,India,1,Male,26,70+ years,298,HIV/AIDS,2010,136,157,117
+163,India,2,Female,26,70+ years,298,HIV/AIDS,2010,142,163,125
+6,China,1,Male,1,Under 5,298,HIV/AIDS,2012,523,597,467
+6,China,2,Female,1,Under 5,298,HIV/AIDS,2012,418,476,368
+6,China,1,Male,23,5-14 years,298,HIV/AIDS,2012,127,150,107
+6,China,2,Female,23,5-14 years,298,HIV/AIDS,2012,104,121,87
+6,China,1,Male,24,15-49 years,298,HIV/AIDS,2012,8715,9084,8317
+6,China,2,Female,24,15-49 years,298,HIV/AIDS,2012,2951,3094,2801
+6,China,1,Male,25,50-69 years,298,HIV/AIDS,2012,3243,3451,3023
+6,China,2,Female,25,50-69 years,298,HIV/AIDS,2012,1108,1189,1027
+6,China,1,Male,26,70+ years,298,HIV/AIDS,2012,1106,1189,1038
+6,China,2,Female,26,70+ years,298,HIV/AIDS,2012,237,256,221
+81,Germany,1,Male,1,Under 5,298,HIV/AIDS,2012,2,3,2
+81,Germany,2,Female,1,Under 5,298,HIV/AIDS,2012,3,4,3
+81,Germany,1,Male,23,5-14 years,298,HIV/AIDS,2012,3,3,2
+81,Germany,2,Female,23,5-14 years,298,HIV/AIDS,2012,2,2,1
+81,Germany,1,Male,24,15-49 years,298,HIV/AIDS,2012,205,217,194
+81,Germany,2,Female,24,15-49 years,298,HIV/AIDS,2012,63,68,59
+81,Germany,1,Male,25,50-69 years,298,HIV/AIDS,2012,194,205,184
+81,Germany,2,Female,25,50-69 years,298,HIV/AIDS,2012,42,45,39
+81,Germany,1,Male,26,70+ years,298,HIV/AIDS,2012,17,19,16
+81,Germany,2,Female,26,70+ years,298,HIV/AIDS,2012,4,5,4
+135,Brazil,1,Male,1,Under 5,491,Cardiovascular diseases,2011,645,718,578
+135,Brazil,2,Female,1,Under 5,491,Cardiovascular diseases,2011,527,586,479
+135,Brazil,1,Male,23,5-14 years,491,Cardiovascular diseases,2011,294,313,268
+135,Brazil,2,Female,23,5-14 years,491,Cardiovascular diseases,2011,250,265,233
+135,Brazil,1,Male,24,15-49 years,491,Cardiovascular diseases,2011,19928,20323,19532
+135,Brazil,2,Female,24,15-49 years,491,Cardiovascular diseases,2011,12604,12862,12385
+135,Brazil,1,Male,25,50-69 years,491,Cardiovascular diseases,2011,67137,68118,66215
+135,Brazil,2,Female,25,50-69 years,491,Cardiovascular diseases,2011,41824,42443,41212
+135,Brazil,1,Male,26,70+ years,491,Cardiovascular diseases,2011,92236,93602,90694
+135,Brazil,2,Female,26,70+ years,491,Cardiovascular diseases,2011,103345,104635,102152
+80,France,1,Male,1,Under 5,491,Cardiovascular diseases,2011,25,30,21
+80,France,2,Female,1,Under 5,491,Cardiovascular diseases,2011,23,28,19
+80,France,1,Male,23,5-14 years,491,Cardiovascular diseases,2011,14,17,12
+80,France,2,Female,23,5-14 years,491,Cardiovascular diseases,2011,13,15,11
+80,France,1,Male,24,15-49 years,491,Cardiovascular diseases,2011,2401,2551,2246
+80,France,2,Female,24,15-49 years,491,Cardiovascular diseases,2011,935,995,874
+80,France,1,Male,25,50-69 years,491,Cardiovascular diseases,2011,13075,13638,12522
+80,France,2,Female,25,50-69 years,491,Cardiovascular diseases,2011,4360,4589,4116
+80,France,1,Male,26,70+ years,491,Cardiovascular diseases,2011,54534,56351,52908
+80,France,2,Female,26,70+ years,491,Cardiovascular diseases,2011,72940,75034,71003
+102,United States,1,Male,1,Under 5,298,HIV/AIDS,2010,29,30,28
+102,United States,2,Female,1,Under 5,298,HIV/AIDS,2010,30,31,29
+135,Brazil,1,Male,1,Under 5,298,HIV/AIDS,2012,286,301,273
+135,Brazil,2,Female,1,Under 5,298,HIV/AIDS,2012,214,226,204
+135,Brazil,1,Male,23,5-14 years,298,HIV/AIDS,2012,103,108,99
+135,Brazil,2,Female,23,5-14 years,298,HIV/AIDS,2012,94,98,90
+135,Brazil,1,Male,24,15-49 years,298,HIV/AIDS,2012,6881,6993,6780
+135,Brazil,2,Female,24,15-49 years,298,HIV/AIDS,2012,3864,3936,3796
+135,Brazil,1,Male,25,50-69 years,298,HIV/AIDS,2012,2348,2406,2293
+135,Brazil,2,Female,25,50-69 years,298,HIV/AIDS,2012,1117,1149,1088
+135,Brazil,1,Male,26,70+ years,298,HIV/AIDS,2012,140,146,135
+135,Brazil,2,Female,26,70+ years,298,HIV/AIDS,2012,74,79,70
+135,Brazil,1,Male,1,Under 5,491,Cardiovascular diseases,2012,615,682,552
+135,Brazil,2,Female,1,Under 5,491,Cardiovascular diseases,2012,494,548,448
+135,Brazil,1,Male,23,5-14 years,491,Cardiovascular diseases,2012,288,306,264
+135,Brazil,2,Female,23,5-14 years,491,Cardiovascular diseases,2012,236,250,221
+135,Brazil,1,Male,24,15-49 years,491,Cardiovascular diseases,2012,19793,20177,19398
+135,Brazil,2,Female,24,15-49 years,491,Cardiovascular diseases,2012,12385,12656,12170
+135,Brazil,1,Male,25,50-69 years,491,Cardiovascular diseases,2012,67513,68489,66560
+135,Brazil,2,Female,25,50-69 years,491,Cardiovascular diseases,2012,41967,42605,41320
+135,Brazil,1,Male,26,70+ years,491,Cardiovascular diseases,2012,93252,94578,91662
+135,Brazil,2,Female,26,70+ years,491,Cardiovascular diseases,2012,104555,106006,103298
+135,Brazil,1,Male,1,Under 5,298,HIV/AIDS,2011,302,317,288
+135,Brazil,2,Female,1,Under 5,298,HIV/AIDS,2011,235,248,224
+135,Brazil,1,Male,23,5-14 years,298,HIV/AIDS,2011,120,125,115
+135,Brazil,2,Female,23,5-14 years,298,HIV/AIDS,2011,100,104,95
+135,Brazil,1,Male,24,15-49 years,298,HIV/AIDS,2011,7091,7199,6982
+135,Brazil,2,Female,24,15-49 years,298,HIV/AIDS,2011,3890,3960,3822
+135,Brazil,1,Male,25,50-69 years,298,HIV/AIDS,2011,2229,2280,2178
+135,Brazil,2,Female,25,50-69 years,298,HIV/AIDS,2011,1054,1085,1023
+135,Brazil,1,Male,26,70+ years,298,HIV/AIDS,2011,135,142,129
+135,Brazil,2,Female,26,70+ years,298,HIV/AIDS,2011,69,73,66
+6,China,1,Male,1,Under 5,298,HIV/AIDS,2011,563,637,500
+6,China,2,Female,1,Under 5,298,HIV/AIDS,2011,442,503,389
+6,China,1,Male,23,5-14 years,298,HIV/AIDS,2011,123,144,103
+6,China,2,Female,23,5-14 years,298,HIV/AIDS,2011,99,116,83
+6,China,1,Male,24,15-49 years,298,HIV/AIDS,2011,9191,9471,8913
+6,China,2,Female,24,15-49 years,298,HIV/AIDS,2011,3269,3370,3173
+6,China,1,Male,25,50-69 years,298,HIV/AIDS,2011,3376,3545,3200
+6,China,2,Female,25,50-69 years,298,HIV/AIDS,2011,1216,1283,1143
+6,China,1,Male,26,70+ years,298,HIV/AIDS,2011,1105,1187,1034
+6,China,2,Female,26,70+ years,298,HIV/AIDS,2011,256,276,239
+102,United States,1,Male,1,Under 5,298,HIV/AIDS,2011,28,29,27
+102,United States,2,Female,1,Under 5,298,HIV/AIDS,2011,27,28,26
+102,United States,1,Male,1,Under 5,491,Cardiovascular diseases,2012,275,291,245
+102,United States,2,Female,1,Under 5,491,Cardiovascular diseases,2012,230,244,206
+102,United States,1,Male,23,5-14 years,491,Cardiovascular diseases,2012,119,124,113
+102,United States,2,Female,23,5-14 years,491,Cardiovascular diseases,2012,105,110,100
+102,United States,1,Male,24,15-49 years,491,Cardiovascular diseases,2012,22613,22904,22271
+102,United States,2,Female,24,15-49 years,491,Cardiovascular diseases,2012,11214,11393,11003
+102,United States,1,Male,25,50-69 years,491,Cardiovascular diseases,2012,116299,117395,115249
+102,United States,2,Female,25,50-69 years,491,Cardiovascular diseases,2012,58827,59606,58125
+102,United States,1,Male,26,70+ years,491,Cardiovascular diseases,2012,264194,267247,260950
+102,United States,2,Female,26,70+ years,491,Cardiovascular diseases,2012,347236,350457,344586
+102,United States,1,Male,23,5-14 years,298,HIV/AIDS,2010,13,14,13
+102,United States,2,Female,23,5-14 years,298,HIV/AIDS,2010,13,14,13
+102,United States,1,Male,24,15-49 years,298,HIV/AIDS,2010,3394,3438,3349
+102,United States,2,Female,24,15-49 years,298,HIV/AIDS,2010,1544,1566,1523
+102,United States,1,Male,25,50-69 years,298,HIV/AIDS,2010,2903,2948,2860
+102,United States,2,Female,25,50-69 years,298,HIV/AIDS,2010,939,955,923
+102,United States,1,Male,26,70+ years,298,HIV/AIDS,2010,161,165,156
+102,United States,2,Female,26,70+ years,298,HIV/AIDS,2010,55,56,54
+214,Nigeria,1,Male,1,Under 5,298,HIV/AIDS,2012,10016,13055,7024
+214,Nigeria,2,Female,1,Under 5,298,HIV/AIDS,2012,10128,12987,7255
+214,Nigeria,1,Male,23,5-14 years,298,HIV/AIDS,2012,2799,3487,2110
+214,Nigeria,2,Female,23,5-14 years,298,HIV/AIDS,2012,2200,2783,1642
+214,Nigeria,1,Male,24,15-49 years,298,HIV/AIDS,2012,66515,89268,47344
+214,Nigeria,2,Female,24,15-49 years,298,HIV/AIDS,2012,78710,105187,56911
+214,Nigeria,1,Male,25,50-69 years,298,HIV/AIDS,2012,14342,18410,10848
+214,Nigeria,2,Female,25,50-69 years,298,HIV/AIDS,2012,12725,16044,9596
+214,Nigeria,1,Male,26,70+ years,298,HIV/AIDS,2012,1774,2523,1124
+214,Nigeria,2,Female,26,70+ years,298,HIV/AIDS,2012,1062,1614,541
+163,India,1,Male,1,Under 5,491,Cardiovascular diseases,2012,1962,2201,1770
+163,India,2,Female,1,Under 5,491,Cardiovascular diseases,2012,2079,2318,1843
+163,India,1,Male,23,5-14 years,491,Cardiovascular diseases,2012,1400,1607,1179
+163,India,2,Female,23,5-14 years,491,Cardiovascular diseases,2012,2130,2481,1812
+163,India,1,Male,24,15-49 years,491,Cardiovascular diseases,2012,211558,220038,203218
+163,India,2,Female,24,15-49 years,491,Cardiovascular diseases,2012,102879,107180,97774
+163,India,1,Male,25,50-69 years,491,Cardiovascular diseases,2012,576846,596531,547871
+163,India,2,Female,25,50-69 years,491,Cardiovascular diseases,2012,336089,350775,309967
+163,India,1,Male,26,70+ years,491,Cardiovascular diseases,2012,558211,592046,504341
+163,India,2,Female,26,70+ years,491,Cardiovascular diseases,2012,491975,534553,439964
+214,Nigeria,1,Male,1,Under 5,491,Cardiovascular diseases,2012,1271,1642,955
+214,Nigeria,2,Female,1,Under 5,491,Cardiovascular diseases,2012,1298,1645,971
+214,Nigeria,1,Male,23,5-14 years,491,Cardiovascular diseases,2012,359,488,264
+214,Nigeria,2,Female,23,5-14 years,491,Cardiovascular diseases,2012,228,304,164
+214,Nigeria,1,Male,24,15-49 years,491,Cardiovascular diseases,2012,5328,8208,3493
+214,Nigeria,2,Female,24,15-49 years,491,Cardiovascular diseases,2012,4476,6949,2616
+214,Nigeria,1,Male,25,50-69 years,491,Cardiovascular diseases,2012,16055,23274,11202
+214,Nigeria,2,Female,25,50-69 years,491,Cardiovascular diseases,2012,14472,21112,8926
+214,Nigeria,1,Male,26,70+ years,491,Cardiovascular diseases,2012,30164,38409,23614
+214,Nigeria,2,Female,26,70+ years,491,Cardiovascular diseases,2012,32169,42348,22309
+81,Germany,1,Male,1,Under 5,298,HIV/AIDS,2011,3,3,3
+81,Germany,2,Female,1,Under 5,298,HIV/AIDS,2011,3,3,3
+81,Germany,1,Male,23,5-14 years,298,HIV/AIDS,2011,3,3,2
+81,Germany,2,Female,23,5-14 years,298,HIV/AIDS,2011,2,2,2
+81,Germany,1,Male,24,15-49 years,298,HIV/AIDS,2011,228,240,216
+81,Germany,2,Female,24,15-49 years,298,HIV/AIDS,2011,67,72,63
+81,Germany,1,Male,25,50-69 years,298,HIV/AIDS,2011,212,223,200
+81,Germany,2,Female,25,50-69 years,298,HIV/AIDS,2011,44,47,41
+81,Germany,1,Male,26,70+ years,298,HIV/AIDS,2011,20,22,18
+81,Germany,2,Female,26,70+ years,298,HIV/AIDS,2011,4,5,4
+102,United States,1,Male,1,Under 5,491,Cardiovascular diseases,2010,287,302,256
+102,United States,2,Female,1,Under 5,491,Cardiovascular diseases,2010,236,250,213
+102,United States,1,Male,23,5-14 years,491,Cardiovascular diseases,2010,120,125,115
+102,United States,2,Female,23,5-14 years,491,Cardiovascular diseases,2010,108,112,102
+102,United States,1,Male,24,15-49 years,491,Cardiovascular diseases,2010,23797,24103,23470
+102,United States,2,Female,24,15-49 years,491,Cardiovascular diseases,2010,11702,11880,11507
+102,United States,1,Male,25,50-69 years,491,Cardiovascular diseases,2010,110716,111855,109712
+102,United States,2,Female,25,50-69 years,491,Cardiovascular diseases,2010,55791,56608,55099
+102,United States,1,Male,26,70+ years,491,Cardiovascular diseases,2010,258385,261489,255436
+102,United States,2,Female,26,70+ years,491,Cardiovascular diseases,2010,344554,348438,341539
+102,United States,1,Male,23,5-14 years,298,HIV/AIDS,2012,13,13,13
+102,United States,2,Female,23,5-14 years,298,HIV/AIDS,2012,10,11,10
+102,United States,1,Male,24,15-49 years,298,HIV/AIDS,2012,2595,2633,2559
+102,United States,2,Female,24,15-49 years,298,HIV/AIDS,2012,1293,1311,1274
+102,United States,1,Male,25,50-69 years,298,HIV/AIDS,2012,2809,2850,2768
+102,United States,2,Female,25,50-69 years,298,HIV/AIDS,2012,913,928,897
+102,United States,1,Male,26,70+ years,298,HIV/AIDS,2012,158,163,153
+102,United States,2,Female,26,70+ years,298,HIV/AIDS,2012,49,50,48
+6,China,1,Male,1,Under 5,491,Cardiovascular diseases,2012,2525,2771,2366
+6,China,2,Female,1,Under 5,491,Cardiovascular diseases,2012,1658,1798,1545
+6,China,1,Male,23,5-14 years,491,Cardiovascular diseases,2012,1307,1377,1239
+6,China,2,Female,23,5-14 years,491,Cardiovascular diseases,2012,890,952,840
+6,China,1,Male,24,15-49 years,491,Cardiovascular diseases,2012,154356,160077,148366
+6,China,2,Female,24,15-49 years,491,Cardiovascular diseases,2012,63482,66091,61144
+6,China,1,Male,25,50-69 years,491,Cardiovascular diseases,2012,608100,627140,588284
+6,China,2,Female,25,50-69 years,491,Cardiovascular diseases,2012,342270,354061,330736
+6,China,1,Male,26,70+ years,491,Cardiovascular diseases,2012,1310066,1343896,1275553
+6,China,2,Female,26,70+ years,491,Cardiovascular diseases,2012,1359417,1405936,1293234
+163,India,1,Male,1,Under 5,298,HIV/AIDS,2011,1945,2254,1677
+163,India,2,Female,1,Under 5,298,HIV/AIDS,2011,1780,2070,1535
+163,India,1,Male,23,5-14 years,298,HIV/AIDS,2011,1292,1421,1167
+163,India,2,Female,23,5-14 years,298,HIV/AIDS,2011,1173,1292,1064
+163,India,1,Male,24,15-49 years,298,HIV/AIDS,2011,53676,56736,50707
+163,India,2,Female,24,15-49 years,298,HIV/AIDS,2011,43845,46669,41202
+163,India,1,Male,25,50-69 years,298,HIV/AIDS,2011,7768,8547,7002
+163,India,2,Female,25,50-69 years,298,HIV/AIDS,2011,6101,6605,5579
+163,India,1,Male,26,70+ years,298,HIV/AIDS,2011,119,139,102
+163,India,2,Female,26,70+ years,298,HIV/AIDS,2011,126,144,111
+67,Japan,1,Male,1,Under 5,298,HIV/AIDS,2012,9,9,8
+67,Japan,2,Female,1,Under 5,298,HIV/AIDS,2012,5,5,5
+67,Japan,1,Male,23,5-14 years,298,HIV/AIDS,2012,2,2,2
+67,Japan,2,Female,23,5-14 years,298,HIV/AIDS,2012,1,1,1
+67,Japan,1,Male,24,15-49 years,298,HIV/AIDS,2012,47,48,46
+67,Japan,2,Female,24,15-49 years,298,HIV/AIDS,2012,17,17,16
+67,Japan,1,Male,25,50-69 years,298,HIV/AIDS,2012,108,112,105
+67,Japan,2,Female,25,50-69 years,298,HIV/AIDS,2012,36,37,35
+67,Japan,1,Male,26,70+ years,298,HIV/AIDS,2012,7,7,7
+67,Japan,2,Female,26,70+ years,298,HIV/AIDS,2012,3,3,3
+81,Germany,1,Male,1,Under 5,491,Cardiovascular diseases,2012,16,19,13
+81,Germany,2,Female,1,Under 5,491,Cardiovascular diseases,2012,13,16,11
+81,Germany,1,Male,23,5-14 years,491,Cardiovascular diseases,2012,14,16,12
+81,Germany,2,Female,23,5-14 years,491,Cardiovascular diseases,2012,11,13,9
+81,Germany,1,Male,24,15-49 years,491,Cardiovascular diseases,2012,3873,4090,3653
+81,Germany,2,Female,24,15-49 years,491,Cardiovascular diseases,2012,1468,1560,1379
+81,Germany,1,Male,25,50-69 years,491,Cardiovascular diseases,2012,27592,28587,26600
+81,Germany,2,Female,25,50-69 years,491,Cardiovascular diseases,2012,10072,10583,9610
+81,Germany,1,Male,26,70+ years,491,Cardiovascular diseases,2012,116123,119147,113526
+81,Germany,2,Female,26,70+ years,491,Cardiovascular diseases,2012,167579,171129,164128
+67,Japan,1,Male,1,Under 5,491,Cardiovascular diseases,2013,44,47,41
+67,Japan,2,Female,1,Under 5,491,Cardiovascular diseases,2013,38,41,35
+67,Japan,1,Male,23,5-14 years,491,Cardiovascular diseases,2013,29,31,28
+67,Japan,2,Female,23,5-14 years,491,Cardiovascular diseases,2013,21,22,19
+67,Japan,1,Male,24,15-49 years,491,Cardiovascular diseases,2013,5416,5528,5252
+67,Japan,2,Female,24,15-49 years,491,Cardiovascular diseases,2013,1862,1901,1825
+67,Japan,1,Male,25,50-69 years,491,Cardiovascular diseases,2013,31050,31463,30653
+67,Japan,2,Female,25,50-69 years,491,Cardiovascular diseases,2013,10727,10892,10555
+67,Japan,1,Male,26,70+ years,491,Cardiovascular diseases,2013,125473,127598,123837
+67,Japan,2,Female,26,70+ years,491,Cardiovascular diseases,2013,165904,168141,164344
+163,India,1,Male,1,Under 5,298,HIV/AIDS,2013,1599,1872,1378
+163,India,2,Female,1,Under 5,298,HIV/AIDS,2013,1471,1717,1270
+163,India,1,Male,23,5-14 years,298,HIV/AIDS,2013,1001,1109,898
+163,India,2,Female,23,5-14 years,298,HIV/AIDS,2013,1008,1116,909
+163,India,1,Male,24,15-49 years,298,HIV/AIDS,2013,41245,43795,38786
+163,India,2,Female,24,15-49 years,298,HIV/AIDS,2013,34775,37153,32652
+163,India,1,Male,25,50-69 years,298,HIV/AIDS,2013,6650,7340,5996
+163,India,2,Female,25,50-69 years,298,HIV/AIDS,2013,5476,5957,5028
+163,India,1,Male,26,70+ years,298,HIV/AIDS,2013,108,126,93
+163,India,2,Female,26,70+ years,298,HIV/AIDS,2013,108,124,95
+214,Nigeria,1,Male,1,Under 5,491,Cardiovascular diseases,2011,1230,1606,922
+214,Nigeria,2,Female,1,Under 5,491,Cardiovascular diseases,2011,1290,1648,973
+214,Nigeria,1,Male,23,5-14 years,491,Cardiovascular diseases,2011,352,483,258
+214,Nigeria,2,Female,23,5-14 years,491,Cardiovascular diseases,2011,223,300,159
+214,Nigeria,1,Male,24,15-49 years,491,Cardiovascular diseases,2011,5233,8020,3369
+214,Nigeria,2,Female,24,15-49 years,491,Cardiovascular diseases,2011,4372,6814,2487
+214,Nigeria,1,Male,25,50-69 years,491,Cardiovascular diseases,2011,15968,23204,11068
+214,Nigeria,2,Female,25,50-69 years,491,Cardiovascular diseases,2011,13973,20311,8673
+214,Nigeria,1,Male,26,70+ years,491,Cardiovascular diseases,2011,29571,37762,22943
+214,Nigeria,2,Female,26,70+ years,491,Cardiovascular diseases,2011,31412,41504,21673
+214,Nigeria,1,Male,1,Under 5,298,HIV/AIDS,2013,7273,9823,4808
+214,Nigeria,2,Female,1,Under 5,298,HIV/AIDS,2013,7123,9570,4780
+214,Nigeria,1,Male,23,5-14 years,298,HIV/AIDS,2013,2422,3057,1772
+214,Nigeria,2,Female,23,5-14 years,298,HIV/AIDS,2013,1900,2439,1382
+214,Nigeria,1,Male,24,15-49 years,298,HIV/AIDS,2013,64668,87066,45967
+214,Nigeria,2,Female,24,15-49 years,298,HIV/AIDS,2013,74790,100219,54072
+214,Nigeria,1,Male,25,50-69 years,298,HIV/AIDS,2013,14244,18236,10767
+214,Nigeria,2,Female,25,50-69 years,298,HIV/AIDS,2013,12416,15779,9276
+214,Nigeria,1,Male,26,70+ years,298,HIV/AIDS,2013,1728,2453,1104
+214,Nigeria,2,Female,26,70+ years,298,HIV/AIDS,2013,994,1518,516
+163,India,1,Male,1,Under 5,491,Cardiovascular diseases,2011,1973,2202,1762
+163,India,2,Female,1,Under 5,491,Cardiovascular diseases,2011,2100,2349,1844
+163,India,1,Male,23,5-14 years,491,Cardiovascular diseases,2011,1473,1697,1239
+163,India,2,Female,23,5-14 years,491,Cardiovascular diseases,2011,2296,2661,1955
+163,India,1,Male,24,15-49 years,491,Cardiovascular diseases,2011,208930,218012,200305
+163,India,2,Female,24,15-49 years,491,Cardiovascular diseases,2011,104436,108797,98786
+163,India,1,Male,25,50-69 years,491,Cardiovascular diseases,2011,544850,565561,517722
+163,India,2,Female,25,50-69 years,491,Cardiovascular diseases,2011,323516,338754,299486
+163,India,1,Male,26,70+ years,491,Cardiovascular diseases,2011,532576,567936,478666
+163,India,2,Female,26,70+ years,491,Cardiovascular diseases,2011,474998,518255,425346
+135,Brazil,1,Male,1,Under 5,298,HIV/AIDS,2013,269,282,257
+135,Brazil,2,Female,1,Under 5,298,HIV/AIDS,2013,203,213,193
+135,Brazil,1,Male,23,5-14 years,298,HIV/AIDS,2013,101,106,98
+135,Brazil,2,Female,23,5-14 years,298,HIV/AIDS,2013,90,94,86
+135,Brazil,1,Male,24,15-49 years,298,HIV/AIDS,2013,7089,7189,6984
+135,Brazil,2,Female,24,15-49 years,298,HIV/AIDS,2013,3804,3878,3733
+135,Brazil,1,Male,25,50-69 years,298,HIV/AIDS,2013,2515,2570,2458
+135,Brazil,2,Female,25,50-69 years,298,HIV/AIDS,2013,1184,1215,1153
+135,Brazil,1,Male,26,70+ years,298,HIV/AIDS,2013,157,164,151
+135,Brazil,2,Female,26,70+ years,298,HIV/AIDS,2013,77,81,73
+214,Nigeria,1,Male,1,Under 5,298,HIV/AIDS,2011,11153,14464,8232
+214,Nigeria,2,Female,1,Under 5,298,HIV/AIDS,2011,11255,14371,8336
+214,Nigeria,1,Male,23,5-14 years,298,HIV/AIDS,2011,3216,3927,2495
+214,Nigeria,2,Female,23,5-14 years,298,HIV/AIDS,2011,2547,3186,1943
+214,Nigeria,1,Male,24,15-49 years,298,HIV/AIDS,2011,67680,90619,48268
+214,Nigeria,2,Female,24,15-49 years,298,HIV/AIDS,2011,81635,109302,58630
+214,Nigeria,1,Male,25,50-69 years,298,HIV/AIDS,2011,14390,18403,10843
+214,Nigeria,2,Female,25,50-69 years,298,HIV/AIDS,2011,12704,15948,9645
+214,Nigeria,1,Male,26,70+ years,298,HIV/AIDS,2011,1816,2590,1137
+214,Nigeria,2,Female,26,70+ years,298,HIV/AIDS,2011,1093,1673,551
+102,United States,1,Male,1,Under 5,298,HIV/AIDS,2012,33,34,32
+102,United States,2,Female,1,Under 5,298,HIV/AIDS,2012,26,27,25
+135,Brazil,1,Male,1,Under 5,491,Cardiovascular diseases,2013,582,643,523
+135,Brazil,2,Female,1,Under 5,491,Cardiovascular diseases,2013,464,513,420
+135,Brazil,1,Male,23,5-14 years,491,Cardiovascular diseases,2013,273,291,251
+135,Brazil,2,Female,23,5-14 years,491,Cardiovascular diseases,2013,220,234,207
+135,Brazil,1,Male,24,15-49 years,491,Cardiovascular diseases,2013,19555,19938,19140
+135,Brazil,2,Female,24,15-49 years,491,Cardiovascular diseases,2013,12234,12485,12016
+135,Brazil,1,Male,25,50-69 years,491,Cardiovascular diseases,2013,68315,69297,67338
+135,Brazil,2,Female,25,50-69 years,491,Cardiovascular diseases,2013,42281,42966,41655
+135,Brazil,1,Male,26,70+ years,491,Cardiovascular diseases,2013,95168,96470,93404
+135,Brazil,2,Female,26,70+ years,491,Cardiovascular diseases,2013,106646,108110,105287
+80,France,1,Male,1,Under 5,491,Cardiovascular diseases,2012,25,29,21
+80,France,2,Female,1,Under 5,491,Cardiovascular diseases,2012,23,28,19
+80,France,1,Male,23,5-14 years,491,Cardiovascular diseases,2012,13,15,11
+80,France,2,Female,23,5-14 years,491,Cardiovascular diseases,2012,13,15,11
+80,France,1,Male,24,15-49 years,491,Cardiovascular diseases,2012,2247,2399,2097
+80,France,2,Female,24,15-49 years,491,Cardiovascular diseases,2012,894,957,835
+80,France,1,Male,25,50-69 years,491,Cardiovascular diseases,2012,13061,13619,12470
+80,France,2,Female,25,50-69 years,491,Cardiovascular diseases,2012,4385,4642,4133
+80,France,1,Male,26,70+ years,491,Cardiovascular diseases,2012,54940,56840,53293
+80,France,2,Female,26,70+ years,491,Cardiovascular diseases,2012,73701,75953,71649
+214,Nigeria,1,Male,1,Under 5,491,Cardiovascular diseases,2013,1283,1696,967
+214,Nigeria,2,Female,1,Under 5,491,Cardiovascular diseases,2013,1288,1634,945
+214,Nigeria,1,Male,23,5-14 years,491,Cardiovascular diseases,2013,359,486,267
+214,Nigeria,2,Female,23,5-14 years,491,Cardiovascular diseases,2013,231,311,165
+214,Nigeria,1,Male,24,15-49 years,491,Cardiovascular diseases,2013,5419,8228,3557
+214,Nigeria,2,Female,24,15-49 years,491,Cardiovascular diseases,2013,4586,7142,2698
+214,Nigeria,1,Male,25,50-69 years,491,Cardiovascular diseases,2013,16237,23358,11494
+214,Nigeria,2,Female,25,50-69 years,491,Cardiovascular diseases,2013,15051,21898,9515
+214,Nigeria,1,Male,26,70+ years,491,Cardiovascular diseases,2013,30865,39185,24519
+214,Nigeria,2,Female,26,70+ years,491,Cardiovascular diseases,2013,33068,43517,23079
+67,Japan,1,Male,1,Under 5,298,HIV/AIDS,2013,7,8,7
+67,Japan,2,Female,1,Under 5,298,HIV/AIDS,2013,5,5,5
+67,Japan,1,Male,23,5-14 years,298,HIV/AIDS,2013,2,2,2
+67,Japan,2,Female,23,5-14 years,298,HIV/AIDS,2013,1,1,1
+67,Japan,1,Male,24,15-49 years,298,HIV/AIDS,2013,47,48,45
+67,Japan,2,Female,24,15-49 years,298,HIV/AIDS,2013,18,18,18
+67,Japan,1,Male,25,50-69 years,298,HIV/AIDS,2013,105,108,102
+67,Japan,2,Female,25,50-69 years,298,HIV/AIDS,2013,41,42,40
+67,Japan,1,Male,26,70+ years,298,HIV/AIDS,2013,8,8,7
+67,Japan,2,Female,26,70+ years,298,HIV/AIDS,2013,3,3,3
+80,France,1,Male,1,Under 5,491,Cardiovascular diseases,2013,25,29,21
+80,France,2,Female,1,Under 5,491,Cardiovascular diseases,2013,24,28,20
+80,France,1,Male,23,5-14 years,491,Cardiovascular diseases,2013,13,16,11
+80,France,2,Female,23,5-14 years,491,Cardiovascular diseases,2013,13,15,11
+80,France,1,Male,24,15-49 years,491,Cardiovascular diseases,2013,2131,2289,1978
+80,France,2,Female,24,15-49 years,491,Cardiovascular diseases,2013,852,918,792
+80,France,1,Male,25,50-69 years,491,Cardiovascular diseases,2013,13013,13620,12397
+80,France,2,Female,25,50-69 years,491,Cardiovascular diseases,2013,4407,4683,4138
+80,France,1,Male,26,70+ years,491,Cardiovascular diseases,2013,54640,56561,52883
+80,France,2,Female,26,70+ years,491,Cardiovascular diseases,2013,73228,75646,71039
+163,India,1,Male,1,Under 5,491,Cardiovascular diseases,2013,1901,2130,1691
+163,India,2,Female,1,Under 5,491,Cardiovascular diseases,2013,1984,2214,1768
+163,India,1,Male,23,5-14 years,491,Cardiovascular diseases,2013,1292,1491,1084
+163,India,2,Female,23,5-14 years,491,Cardiovascular diseases,2013,2020,2346,1711
+163,India,1,Male,24,15-49 years,491,Cardiovascular diseases,2013,206634,214578,198627
+163,India,2,Female,24,15-49 years,491,Cardiovascular diseases,2013,104508,108751,99291
+163,India,1,Male,25,50-69 years,491,Cardiovascular diseases,2013,587189,605819,558746
+163,India,2,Female,25,50-69 years,491,Cardiovascular diseases,2013,358524,375805,331411
+163,India,1,Male,26,70+ years,491,Cardiovascular diseases,2013,568435,599759,516271
+163,India,2,Female,26,70+ years,491,Cardiovascular diseases,2013,518583,558765,460941
+163,India,1,Male,1,Under 5,298,HIV/AIDS,2012,1693,1993,1454
+163,India,2,Female,1,Under 5,298,HIV/AIDS,2012,1557,1832,1343
+163,India,1,Male,23,5-14 years,298,HIV/AIDS,2012,1231,1351,1118
+163,India,2,Female,23,5-14 years,298,HIV/AIDS,2012,1154,1267,1050
+163,India,1,Male,24,15-49 years,298,HIV/AIDS,2012,46894,49618,44200
+163,India,2,Female,24,15-49 years,298,HIV/AIDS,2012,39090,41633,36737
+163,India,1,Male,25,50-69 years,298,HIV/AIDS,2012,7125,7876,6422
+163,India,2,Female,25,50-69 years,298,HIV/AIDS,2012,5757,6263,5270
+163,India,1,Male,26,70+ years,298,HIV/AIDS,2012,110,129,94
+163,India,2,Female,26,70+ years,298,HIV/AIDS,2012,114,130,101
+6,China,1,Male,1,Under 5,298,HIV/AIDS,2013,512,579,456
+6,China,2,Female,1,Under 5,298,HIV/AIDS,2013,404,462,357
+6,China,1,Male,23,5-14 years,298,HIV/AIDS,2013,133,155,112
+6,China,2,Female,23,5-14 years,298,HIV/AIDS,2013,108,126,91
+6,China,1,Male,24,15-49 years,298,HIV/AIDS,2013,9187,9629,8713
+6,China,2,Female,24,15-49 years,298,HIV/AIDS,2013,3012,3171,2816
+6,China,1,Male,25,50-69 years,298,HIV/AIDS,2013,3646,3925,3378
+6,China,2,Female,25,50-69 years,298,HIV/AIDS,2013,1198,1296,1103
+6,China,1,Male,26,70+ years,298,HIV/AIDS,2013,1184,1294,1089
+6,China,2,Female,26,70+ years,298,HIV/AIDS,2013,252,274,232
+80,France,1,Male,1,Under 5,298,HIV/AIDS,2013,2,2,2
+80,France,2,Female,1,Under 5,298,HIV/AIDS,2013,4,4,3
+80,France,1,Male,23,5-14 years,298,HIV/AIDS,2013,1,2,1
+80,France,2,Female,23,5-14 years,298,HIV/AIDS,2013,2,3,2
+80,France,1,Male,24,15-49 years,298,HIV/AIDS,2013,156,166,146
+80,France,2,Female,24,15-49 years,298,HIV/AIDS,2013,92,99,86
+80,France,1,Male,25,50-69 years,298,HIV/AIDS,2013,205,217,193
+80,France,2,Female,25,50-69 years,298,HIV/AIDS,2013,67,72,62
+80,France,1,Male,26,70+ years,298,HIV/AIDS,2013,7,8,7
+80,France,2,Female,26,70+ years,298,HIV/AIDS,2013,5,5,4
+102,United States,1,Male,1,Under 5,491,Cardiovascular diseases,2013,273,289,240
+102,United States,2,Female,1,Under 5,491,Cardiovascular diseases,2013,226,240,202
+102,United States,1,Male,23,5-14 years,491,Cardiovascular diseases,2013,120,125,114
+102,United States,2,Female,23,5-14 years,491,Cardiovascular diseases,2013,106,110,100
+102,United States,1,Male,24,15-49 years,491,Cardiovascular diseases,2013,22081,22386,21731
+102,United States,2,Female,24,15-49 years,491,Cardiovascular diseases,2013,10969,11149,10741
+102,United States,1,Male,25,50-69 years,491,Cardiovascular diseases,2013,118976,120180,117788
+102,United States,2,Female,25,50-69 years,491,Cardiovascular diseases,2013,60215,60997,59483
+102,United States,1,Male,26,70+ years,491,Cardiovascular diseases,2013,269537,272699,266141
+102,United States,2,Female,26,70+ years,491,Cardiovascular diseases,2013,347725,351000,344909
+67,Japan,1,Male,1,Under 5,491,Cardiovascular diseases,2012,48,51,45
+67,Japan,2,Female,1,Under 5,491,Cardiovascular diseases,2012,42,46,39
+67,Japan,1,Male,23,5-14 years,491,Cardiovascular diseases,2012,31,32,29
+67,Japan,2,Female,23,5-14 years,491,Cardiovascular diseases,2012,22,24,21
+67,Japan,1,Male,24,15-49 years,491,Cardiovascular diseases,2012,5550,5655,5428
+67,Japan,2,Female,24,15-49 years,491,Cardiovascular diseases,2012,1919,1956,1882
+67,Japan,1,Male,25,50-69 years,491,Cardiovascular diseases,2012,31970,32351,31597
+67,Japan,2,Female,25,50-69 years,491,Cardiovascular diseases,2012,10992,11148,10829
+67,Japan,1,Male,26,70+ years,491,Cardiovascular diseases,2012,123855,125664,122482
+67,Japan,2,Female,26,70+ years,491,Cardiovascular diseases,2012,163538,165360,162152
+81,Germany,1,Male,1,Under 5,298,HIV/AIDS,2013,2,3,2
+81,Germany,2,Female,1,Under 5,298,HIV/AIDS,2013,4,4,3
+81,Germany,1,Male,23,5-14 years,298,HIV/AIDS,2013,3,3,2
+81,Germany,2,Female,23,5-14 years,298,HIV/AIDS,2013,2,2,1
+81,Germany,1,Male,24,15-49 years,298,HIV/AIDS,2013,189,200,179
+81,Germany,2,Female,24,15-49 years,298,HIV/AIDS,2013,53,56,49
+81,Germany,1,Male,25,50-69 years,298,HIV/AIDS,2013,202,213,191
+81,Germany,2,Female,25,50-69 years,298,HIV/AIDS,2013,45,48,42
+81,Germany,1,Male,26,70+ years,298,HIV/AIDS,2013,21,23,19
+81,Germany,2,Female,26,70+ years,298,HIV/AIDS,2013,4,5,4
+102,United States,1,Male,1,Under 5,298,HIV/AIDS,2013,28,29,27
+102,United States,2,Female,1,Under 5,298,HIV/AIDS,2013,22,23,22
+6,China,1,Male,1,Under 5,491,Cardiovascular diseases,2013,2334,2578,2173
+6,China,2,Female,1,Under 5,491,Cardiovascular diseases,2013,1520,1657,1411
+6,China,1,Male,23,5-14 years,491,Cardiovascular diseases,2013,1316,1389,1246
+6,China,2,Female,23,5-14 years,491,Cardiovascular diseases,2013,902,964,850
+6,China,1,Male,24,15-49 years,491,Cardiovascular diseases,2013,157087,163447,150506
+6,China,2,Female,24,15-49 years,491,Cardiovascular diseases,2013,62721,65610,60136
+6,China,1,Male,25,50-69 years,491,Cardiovascular diseases,2013,637353,659503,615312
+6,China,2,Female,25,50-69 years,491,Cardiovascular diseases,2013,358055,371778,344166
+6,China,1,Male,26,70+ years,491,Cardiovascular diseases,2013,1286126,1320765,1249779
+6,China,2,Female,26,70+ years,491,Cardiovascular diseases,2013,1365582,1414792,1300235
+102,United States,1,Male,23,5-14 years,298,HIV/AIDS,2013,12,12,12
+102,United States,2,Female,23,5-14 years,298,HIV/AIDS,2013,8,8,8
+102,United States,1,Male,24,15-49 years,298,HIV/AIDS,2013,2474,2509,2437
+102,United States,2,Female,24,15-49 years,298,HIV/AIDS,2013,1137,1153,1120
+102,United States,1,Male,25,50-69 years,298,HIV/AIDS,2013,2777,2818,2733
+102,United States,2,Female,25,50-69 years,298,HIV/AIDS,2013,929,947,912
+102,United States,1,Male,26,70+ years,298,HIV/AIDS,2013,158,162,153
+102,United States,2,Female,26,70+ years,298,HIV/AIDS,2013,52,54,51
+81,Germany,1,Male,1,Under 5,491,Cardiovascular diseases,2013,16,19,13
+81,Germany,2,Female,1,Under 5,491,Cardiovascular diseases,2013,13,16,11
+81,Germany,1,Male,23,5-14 years,491,Cardiovascular diseases,2013,12,14,10
+81,Germany,2,Female,23,5-14 years,491,Cardiovascular diseases,2013,11,13,9
+81,Germany,1,Male,24,15-49 years,491,Cardiovascular diseases,2013,3724,3942,3502
+81,Germany,2,Female,24,15-49 years,491,Cardiovascular diseases,2013,1442,1538,1350
+81,Germany,1,Male,25,50-69 years,491,Cardiovascular diseases,2013,27721,28744,26734
+81,Germany,2,Female,25,50-69 years,491,Cardiovascular diseases,2013,10334,10861,9835
+81,Germany,1,Male,26,70+ years,491,Cardiovascular diseases,2013,120253,123415,117629
+81,Germany,2,Female,26,70+ years,491,Cardiovascular diseases,2013,172000,175222,168635
+6,China,1,Male,1,Under 5,491,Cardiovascular diseases,2014,2175,2406,2019
+6,China,2,Female,1,Under 5,491,Cardiovascular diseases,2014,1408,1535,1307
+6,China,1,Male,23,5-14 years,491,Cardiovascular diseases,2014,1314,1386,1242
+6,China,2,Female,23,5-14 years,491,Cardiovascular diseases,2014,871,932,820
+6,China,1,Male,24,15-49 years,491,Cardiovascular diseases,2014,156938,163761,149978
+6,China,2,Female,24,15-49 years,491,Cardiovascular diseases,2014,61045,64169,58304
+6,China,1,Male,25,50-69 years,491,Cardiovascular diseases,2014,695524,723181,668599
+6,China,2,Female,25,50-69 years,491,Cardiovascular diseases,2014,388519,406210,372483
+6,China,1,Male,26,70+ years,491,Cardiovascular diseases,2014,1317673,1356321,1277628
+6,China,2,Female,26,70+ years,491,Cardiovascular diseases,2014,1413677,1467793,1344956
+102,United States,1,Male,23,5-14 years,298,HIV/AIDS,2014,12,12,11
+102,United States,2,Female,23,5-14 years,298,HIV/AIDS,2014,13,13,12
+102,United States,1,Male,24,15-49 years,298,HIV/AIDS,2014,2265,2298,2234
+102,United States,2,Female,24,15-49 years,298,HIV/AIDS,2014,1097,1114,1082
+102,United States,1,Male,25,50-69 years,298,HIV/AIDS,2014,2775,2819,2732
+102,United States,2,Female,25,50-69 years,298,HIV/AIDS,2014,887,904,871
+102,United States,1,Male,26,70+ years,298,HIV/AIDS,2014,160,164,155
+102,United States,2,Female,26,70+ years,298,HIV/AIDS,2014,52,54,51
+81,Germany,1,Male,1,Under 5,491,Cardiovascular diseases,2014,16,19,13
+81,Germany,2,Female,1,Under 5,491,Cardiovascular diseases,2014,13,15,11
+81,Germany,1,Male,23,5-14 years,491,Cardiovascular diseases,2014,12,14,10
+81,Germany,2,Female,23,5-14 years,491,Cardiovascular diseases,2014,10,12,8
+81,Germany,1,Male,24,15-49 years,491,Cardiovascular diseases,2014,3464,3694,3246
+81,Germany,2,Female,24,15-49 years,491,Cardiovascular diseases,2014,1323,1421,1233
+81,Germany,1,Male,25,50-69 years,491,Cardiovascular diseases,2014,26945,28067,25900
+81,Germany,2,Female,25,50-69 years,491,Cardiovascular diseases,2014,9988,10561,9460
+81,Germany,1,Male,26,70+ years,491,Cardiovascular diseases,2014,120576,123977,117681
+81,Germany,2,Female,26,70+ years,491,Cardiovascular diseases,2014,169710,173704,166143
+80,France,1,Male,1,Under 5,298,HIV/AIDS,2015,2,2,1
+80,France,2,Female,1,Under 5,298,HIV/AIDS,2015,3,4,3
+80,France,1,Male,23,5-14 years,298,HIV/AIDS,2015,1,2,1
+80,France,2,Female,23,5-14 years,298,HIV/AIDS,2015,2,2,2
+80,France,1,Male,24,15-49 years,298,HIV/AIDS,2015,169,181,157
+80,France,2,Female,24,15-49 years,298,HIV/AIDS,2015,79,85,73
+80,France,1,Male,25,50-69 years,298,HIV/AIDS,2015,183,197,169
+80,France,2,Female,25,50-69 years,298,HIV/AIDS,2015,50,54,46
+80,France,1,Male,26,70+ years,298,HIV/AIDS,2015,7,8,7
+80,France,2,Female,26,70+ years,298,HIV/AIDS,2015,4,4,3
+81,Germany,1,Male,1,Under 5,298,HIV/AIDS,2015,3,3,3
+81,Germany,2,Female,1,Under 5,298,HIV/AIDS,2015,4,5,4
+81,Germany,1,Male,23,5-14 years,298,HIV/AIDS,2015,2,3,2
+81,Germany,2,Female,23,5-14 years,298,HIV/AIDS,2015,2,2,1
+81,Germany,1,Male,24,15-49 years,298,HIV/AIDS,2015,169,180,159
+81,Germany,2,Female,24,15-49 years,298,HIV/AIDS,2015,59,63,55
+81,Germany,1,Male,25,50-69 years,298,HIV/AIDS,2015,206,220,193
+81,Germany,2,Female,25,50-69 years,298,HIV/AIDS,2015,46,50,42
+81,Germany,1,Male,26,70+ years,298,HIV/AIDS,2015,21,23,19
+81,Germany,2,Female,26,70+ years,298,HIV/AIDS,2015,4,4,4
+135,Brazil,1,Male,1,Under 5,491,Cardiovascular diseases,2015,509,568,456
+135,Brazil,2,Female,1,Under 5,491,Cardiovascular diseases,2015,401,446,362
+135,Brazil,1,Male,23,5-14 years,491,Cardiovascular diseases,2015,239,255,219
+135,Brazil,2,Female,23,5-14 years,491,Cardiovascular diseases,2015,197,211,182
+135,Brazil,1,Male,24,15-49 years,491,Cardiovascular diseases,2015,18837,19238,18438
+135,Brazil,2,Female,24,15-49 years,491,Cardiovascular diseases,2015,11869,12131,11626
+135,Brazil,1,Male,25,50-69 years,491,Cardiovascular diseases,2015,69966,70959,68948
+135,Brazil,2,Female,25,50-69 years,491,Cardiovascular diseases,2015,43555,44376,42800
+135,Brazil,1,Male,26,70+ years,491,Cardiovascular diseases,2015,99372,100742,97506
+135,Brazil,2,Female,26,70+ years,491,Cardiovascular diseases,2015,112619,114385,111073
+163,India,1,Male,1,Under 5,491,Cardiovascular diseases,2015,1680,1884,1501
+163,India,2,Female,1,Under 5,491,Cardiovascular diseases,2015,1709,1936,1515
+163,India,1,Male,23,5-14 years,491,Cardiovascular diseases,2015,965,1126,805
+163,India,2,Female,23,5-14 years,491,Cardiovascular diseases,2015,1598,1860,1352
+163,India,1,Male,24,15-49 years,491,Cardiovascular diseases,2015,199514,207256,191436
+163,India,2,Female,24,15-49 years,491,Cardiovascular diseases,2015,112467,117741,106018
+163,India,1,Male,25,50-69 years,491,Cardiovascular diseases,2015,591161,610640,563436
+163,India,2,Female,25,50-69 years,491,Cardiovascular diseases,2015,411178,430247,380743
+163,India,1,Male,26,70+ years,491,Cardiovascular diseases,2015,582237,613525,531595
+163,India,2,Female,26,70+ years,491,Cardiovascular diseases,2015,588004,630134,521987
+214,Nigeria,1,Male,1,Under 5,491,Cardiovascular diseases,2015,1386,1847,992
+214,Nigeria,2,Female,1,Under 5,491,Cardiovascular diseases,2015,1341,1730,978
+214,Nigeria,1,Male,23,5-14 years,491,Cardiovascular diseases,2015,391,522,286
+214,Nigeria,2,Female,23,5-14 years,491,Cardiovascular diseases,2015,253,340,179
+214,Nigeria,1,Male,24,15-49 years,491,Cardiovascular diseases,2015,5792,8722,3872
+214,Nigeria,2,Female,24,15-49 years,491,Cardiovascular diseases,2015,4867,7581,2928
+214,Nigeria,1,Male,25,50-69 years,491,Cardiovascular diseases,2015,17218,24976,12270
+214,Nigeria,2,Female,25,50-69 years,491,Cardiovascular diseases,2015,16732,24113,10837
+214,Nigeria,1,Male,26,70+ years,491,Cardiovascular diseases,2015,32522,40909,26026
+214,Nigeria,2,Female,26,70+ years,491,Cardiovascular diseases,2015,35069,46321,24856
+67,Japan,1,Male,1,Under 5,298,HIV/AIDS,2015,7,8,7
+67,Japan,2,Female,1,Under 5,298,HIV/AIDS,2015,4,4,4
+67,Japan,1,Male,23,5-14 years,298,HIV/AIDS,2015,2,2,2
+67,Japan,2,Female,23,5-14 years,298,HIV/AIDS,2015,1,1,1
+67,Japan,1,Male,24,15-49 years,298,HIV/AIDS,2015,50,51,49
+67,Japan,2,Female,24,15-49 years,298,HIV/AIDS,2015,17,17,16
+67,Japan,1,Male,25,50-69 years,298,HIV/AIDS,2015,97,100,94
+67,Japan,2,Female,25,50-69 years,298,HIV/AIDS,2015,37,38,36
+67,Japan,1,Male,26,70+ years,298,HIV/AIDS,2015,8,8,8
+67,Japan,2,Female,26,70+ years,298,HIV/AIDS,2015,3,3,3
+102,United States,1,Male,1,Under 5,491,Cardiovascular diseases,2014,267,282,236
+102,United States,2,Female,1,Under 5,491,Cardiovascular diseases,2014,221,236,198
+102,United States,1,Male,23,5-14 years,491,Cardiovascular diseases,2014,122,127,116
+102,United States,2,Female,23,5-14 years,491,Cardiovascular diseases,2014,104,109,99
+102,United States,1,Male,24,15-49 years,491,Cardiovascular diseases,2014,21700,22045,21306
+102,United States,2,Female,24,15-49 years,491,Cardiovascular diseases,2014,10919,11122,10651
+102,United States,1,Male,25,50-69 years,491,Cardiovascular diseases,2014,121677,122890,120344
+102,United States,2,Female,25,50-69 years,491,Cardiovascular diseases,2014,62238,62996,61480
+102,United States,1,Male,26,70+ years,491,Cardiovascular diseases,2014,273628,276939,270136
+102,United States,2,Female,26,70+ years,491,Cardiovascular diseases,2014,349481,352853,346411
+6,China,1,Male,1,Under 5,491,Cardiovascular diseases,2015,1997,2233,1838
+6,China,2,Female,1,Under 5,491,Cardiovascular diseases,2015,1278,1407,1183
+6,China,1,Male,23,5-14 years,491,Cardiovascular diseases,2015,1308,1383,1231
+6,China,2,Female,23,5-14 years,491,Cardiovascular diseases,2015,837,895,787
+6,China,1,Male,24,15-49 years,491,Cardiovascular diseases,2015,154030,161258,146686
+6,China,2,Female,24,15-49 years,491,Cardiovascular diseases,2015,58600,61938,55814
+6,China,1,Male,25,50-69 years,491,Cardiovascular diseases,2015,755868,789824,723430
+6,China,2,Female,25,50-69 years,491,Cardiovascular diseases,2015,415191,436028,394976
+6,China,1,Male,26,70+ years,491,Cardiovascular diseases,2015,1375181,1419969,1330243
+6,China,2,Female,26,70+ years,491,Cardiovascular diseases,2015,1457542,1517857,1387295
+102,United States,1,Male,1,Under 5,298,HIV/AIDS,2014,30,31,29
+102,United States,2,Female,1,Under 5,298,HIV/AIDS,2014,29,30,28
+6,China,1,Male,1,Under 5,298,HIV/AIDS,2014,514,584,457
+6,China,2,Female,1,Under 5,298,HIV/AIDS,2014,401,458,354
+6,China,1,Male,23,5-14 years,298,HIV/AIDS,2014,137,159,117
+6,China,2,Female,23,5-14 years,298,HIV/AIDS,2014,111,128,94
+6,China,1,Male,24,15-49 years,298,HIV/AIDS,2014,10756,11160,10211
+6,China,2,Female,24,15-49 years,298,HIV/AIDS,2014,3513,3659,3330
+6,China,1,Male,25,50-69 years,298,HIV/AIDS,2014,4843,5207,4445
+6,China,2,Female,25,50-69 years,298,HIV/AIDS,2014,1622,1731,1498
+6,China,1,Male,26,70+ years,298,HIV/AIDS,2014,1644,1803,1476
+6,China,2,Female,26,70+ years,298,HIV/AIDS,2014,348,376,316
+80,France,1,Male,1,Under 5,491,Cardiovascular diseases,2014,24,29,20
+80,France,2,Female,1,Under 5,491,Cardiovascular diseases,2014,23,27,19
+80,France,1,Male,23,5-14 years,491,Cardiovascular diseases,2014,13,15,11
+80,France,2,Female,23,5-14 years,491,Cardiovascular diseases,2014,12,14,10
+80,France,1,Male,24,15-49 years,491,Cardiovascular diseases,2014,2000,2157,1842
+80,France,2,Female,24,15-49 years,491,Cardiovascular diseases,2014,815,882,753
+80,France,1,Male,25,50-69 years,491,Cardiovascular diseases,2014,12777,13469,12119
+80,France,2,Female,25,50-69 years,491,Cardiovascular diseases,2014,4452,4732,4167
+80,France,1,Male,26,70+ years,491,Cardiovascular diseases,2014,53884,55949,51836
+80,France,2,Female,26,70+ years,491,Cardiovascular diseases,2014,72672,75423,70239
+163,India,1,Male,1,Under 5,298,HIV/AIDS,2015,1379,1621,1187
+163,India,2,Female,1,Under 5,298,HIV/AIDS,2015,1268,1480,1094
+163,India,1,Male,23,5-14 years,298,HIV/AIDS,2015,648,723,576
+163,India,2,Female,23,5-14 years,298,HIV/AIDS,2015,714,803,636
+163,India,1,Male,24,15-49 years,298,HIV/AIDS,2015,29894,31976,28029
+163,India,2,Female,24,15-49 years,298,HIV/AIDS,2015,25834,27652,24255
+163,India,1,Male,25,50-69 years,298,HIV/AIDS,2015,5483,6118,4895
+163,India,2,Female,25,50-69 years,298,HIV/AIDS,2015,4476,4929,4052
+163,India,1,Male,26,70+ years,298,HIV/AIDS,2015,105,123,89
+163,India,2,Female,26,70+ years,298,HIV/AIDS,2015,90,105,78
+135,Brazil,1,Male,1,Under 5,298,HIV/AIDS,2014,233,246,222
+135,Brazil,2,Female,1,Under 5,298,HIV/AIDS,2014,184,194,176
+135,Brazil,1,Male,23,5-14 years,298,HIV/AIDS,2014,91,95,87
+135,Brazil,2,Female,23,5-14 years,298,HIV/AIDS,2014,74,77,71
+135,Brazil,1,Male,24,15-49 years,298,HIV/AIDS,2014,6946,7056,6841
+135,Brazil,2,Female,24,15-49 years,298,HIV/AIDS,2014,3694,3766,3625
+135,Brazil,1,Male,25,50-69 years,298,HIV/AIDS,2014,2736,2796,2677
+135,Brazil,2,Female,25,50-69 years,298,HIV/AIDS,2014,1220,1253,1185
+135,Brazil,1,Male,26,70+ years,298,HIV/AIDS,2014,173,181,166
+135,Brazil,2,Female,26,70+ years,298,HIV/AIDS,2014,82,87,78
+80,France,1,Male,1,Under 5,491,Cardiovascular diseases,2015,25,30,21
+80,France,2,Female,1,Under 5,491,Cardiovascular diseases,2015,24,28,20
+80,France,1,Male,23,5-14 years,491,Cardiovascular diseases,2015,14,16,11
+80,France,2,Female,23,5-14 years,491,Cardiovascular diseases,2015,12,14,10
+80,France,1,Male,24,15-49 years,491,Cardiovascular diseases,2015,1926,2100,1754
+80,France,2,Female,24,15-49 years,491,Cardiovascular diseases,2015,764,837,700
+80,France,1,Male,25,50-69 years,491,Cardiovascular diseases,2015,13002,13758,12284
+80,France,2,Female,25,50-69 years,491,Cardiovascular diseases,2015,4496,4828,4203
+80,France,1,Male,26,70+ years,491,Cardiovascular diseases,2015,56247,58607,54113
+80,France,2,Female,26,70+ years,491,Cardiovascular diseases,2015,74165,77143,71533
+81,Germany,1,Male,1,Under 5,491,Cardiovascular diseases,2015,17,20,14
+81,Germany,2,Female,1,Under 5,491,Cardiovascular diseases,2015,14,17,12
+81,Germany,1,Male,23,5-14 years,491,Cardiovascular diseases,2015,11,13,9
+81,Germany,2,Female,23,5-14 years,491,Cardiovascular diseases,2015,11,12,9
+81,Germany,1,Male,24,15-49 years,491,Cardiovascular diseases,2015,3460,3695,3228
+81,Germany,2,Female,24,15-49 years,491,Cardiovascular diseases,2015,1306,1408,1212
+81,Germany,1,Male,25,50-69 years,491,Cardiovascular diseases,2015,28451,29701,27327
+81,Germany,2,Female,25,50-69 years,491,Cardiovascular diseases,2015,10560,11206,9966
+81,Germany,1,Male,26,70+ years,491,Cardiovascular diseases,2015,127432,130961,124309
+81,Germany,2,Female,26,70+ years,491,Cardiovascular diseases,2015,177494,181312,173685
+214,Nigeria,1,Male,1,Under 5,298,HIV/AIDS,2014,11217,15329,7535
+214,Nigeria,2,Female,1,Under 5,298,HIV/AIDS,2014,10730,14331,7331
+214,Nigeria,1,Male,23,5-14 years,298,HIV/AIDS,2014,2367,2999,1764
+214,Nigeria,2,Female,23,5-14 years,298,HIV/AIDS,2014,1865,2403,1362
+214,Nigeria,1,Male,24,15-49 years,298,HIV/AIDS,2014,62179,83848,44003
+214,Nigeria,2,Female,24,15-49 years,298,HIV/AIDS,2014,72118,96683,51468
+214,Nigeria,1,Male,25,50-69 years,298,HIV/AIDS,2014,13999,18043,10523
+214,Nigeria,2,Female,25,50-69 years,298,HIV/AIDS,2014,12484,15939,9355
+214,Nigeria,1,Male,26,70+ years,298,HIV/AIDS,2014,1656,2344,1049
+214,Nigeria,2,Female,26,70+ years,298,HIV/AIDS,2014,959,1460,495
+67,Japan,1,Male,1,Under 5,298,HIV/AIDS,2016,7,7,6
+67,Japan,2,Female,1,Under 5,298,HIV/AIDS,2016,4,4,4
+67,Japan,1,Male,23,5-14 years,298,HIV/AIDS,2016,2,2,2
+67,Japan,2,Female,23,5-14 years,298,HIV/AIDS,2016,1,1,1
+67,Japan,1,Male,24,15-49 years,298,HIV/AIDS,2016,45,47,44
+67,Japan,2,Female,24,15-49 years,298,HIV/AIDS,2016,15,16,15
+67,Japan,1,Male,25,50-69 years,298,HIV/AIDS,2016,94,97,91
+67,Japan,2,Female,25,50-69 years,298,HIV/AIDS,2016,39,40,37
+67,Japan,1,Male,26,70+ years,298,HIV/AIDS,2016,7,7,7
+67,Japan,2,Female,26,70+ years,298,HIV/AIDS,2016,3,3,3
+163,India,1,Male,1,Under 5,298,HIV/AIDS,2014,1481,1729,1284
+163,India,2,Female,1,Under 5,298,HIV/AIDS,2014,1364,1594,1180
+163,India,1,Male,23,5-14 years,298,HIV/AIDS,2014,835,931,746
+163,India,2,Female,23,5-14 years,298,HIV/AIDS,2014,875,977,783
+163,India,1,Male,24,15-49 years,298,HIV/AIDS,2014,35287,37627,33092
+163,India,2,Female,24,15-49 years,298,HIV/AIDS,2014,30503,32543,28615
+163,India,1,Male,25,50-69 years,298,HIV/AIDS,2014,5968,6596,5366
+163,India,2,Female,25,50-69 years,298,HIV/AIDS,2014,5018,5482,4588
+163,India,1,Male,26,70+ years,298,HIV/AIDS,2014,104,121,89
+163,India,2,Female,26,70+ years,298,HIV/AIDS,2014,101,118,88
+6,China,1,Male,1,Under 5,298,HIV/AIDS,2016,495,567,441
+6,China,2,Female,1,Under 5,298,HIV/AIDS,2016,388,447,340
+6,China,1,Male,23,5-14 years,298,HIV/AIDS,2016,138,160,119
+6,China,2,Female,23,5-14 years,298,HIV/AIDS,2016,108,125,93
+6,China,1,Male,24,15-49 years,298,HIV/AIDS,2016,13538,14106,12893
+6,China,2,Female,24,15-49 years,298,HIV/AIDS,2016,4344,4524,4134
+6,China,1,Male,25,50-69 years,298,HIV/AIDS,2016,7901,8276,7483
+6,China,2,Female,25,50-69 years,298,HIV/AIDS,2016,2668,2790,2540
+6,China,1,Male,26,70+ years,298,HIV/AIDS,2016,2672,2865,2452
+6,China,2,Female,26,70+ years,298,HIV/AIDS,2016,626,679,573
+102,United States,1,Male,1,Under 5,491,Cardiovascular diseases,2016,266,282,235
+102,United States,2,Female,1,Under 5,491,Cardiovascular diseases,2016,223,238,200
+102,United States,1,Male,23,5-14 years,491,Cardiovascular diseases,2016,124,130,118
+102,United States,2,Female,23,5-14 years,491,Cardiovascular diseases,2016,114,120,107
+102,United States,1,Male,24,15-49 years,491,Cardiovascular diseases,2016,22615,23530,21860
+102,United States,2,Female,24,15-49 years,491,Cardiovascular diseases,2016,11095,11436,10690
+102,United States,1,Male,25,50-69 years,491,Cardiovascular diseases,2016,130410,132885,127658
+102,United States,2,Female,25,50-69 years,491,Cardiovascular diseases,2016,66240,67509,64957
+102,United States,1,Male,26,70+ years,491,Cardiovascular diseases,2016,289299,293926,284362
+102,United States,2,Female,26,70+ years,491,Cardiovascular diseases,2016,360187,365343,355210
+135,Brazil,1,Male,1,Under 5,298,HIV/AIDS,2016,222,234,211
+135,Brazil,2,Female,1,Under 5,298,HIV/AIDS,2016,184,194,175
+135,Brazil,1,Male,23,5-14 years,298,HIV/AIDS,2016,91,95,87
+135,Brazil,2,Female,23,5-14 years,298,HIV/AIDS,2016,88,92,84
+135,Brazil,1,Male,24,15-49 years,298,HIV/AIDS,2016,6541,6656,6423
+135,Brazil,2,Female,24,15-49 years,298,HIV/AIDS,2016,3628,3706,3553
+135,Brazil,1,Male,25,50-69 years,298,HIV/AIDS,2016,2841,2913,2770
+135,Brazil,2,Female,25,50-69 years,298,HIV/AIDS,2016,1365,1412,1322
+135,Brazil,1,Male,26,70+ years,298,HIV/AIDS,2016,182,190,174
+135,Brazil,2,Female,26,70+ years,298,HIV/AIDS,2016,101,107,95
+67,Japan,1,Male,1,Under 5,491,Cardiovascular diseases,2014,42,44,39
+67,Japan,2,Female,1,Under 5,491,Cardiovascular diseases,2014,36,38,32
+67,Japan,1,Male,23,5-14 years,491,Cardiovascular diseases,2014,29,31,28
+67,Japan,2,Female,23,5-14 years,491,Cardiovascular diseases,2014,20,21,19
+67,Japan,1,Male,24,15-49 years,491,Cardiovascular diseases,2014,5219,5344,4975
+67,Japan,2,Female,24,15-49 years,491,Cardiovascular diseases,2014,1820,1862,1781
+67,Japan,1,Male,25,50-69 years,491,Cardiovascular diseases,2014,29945,30421,29438
+67,Japan,2,Female,25,50-69 years,491,Cardiovascular diseases,2014,10468,10647,10291
+67,Japan,1,Male,26,70+ years,491,Cardiovascular diseases,2014,126459,129005,124301
+67,Japan,2,Female,26,70+ years,491,Cardiovascular diseases,2014,167860,170491,165872
+102,United States,1,Male,1,Under 5,298,HIV/AIDS,2017,28,29,27
+102,United States,2,Female,1,Under 5,298,HIV/AIDS,2017,26,27,25
+214,Nigeria,1,Male,1,Under 5,298,HIV/AIDS,2016,9076,12653,6121
+214,Nigeria,2,Female,1,Under 5,298,HIV/AIDS,2016,8704,11972,6001
+214,Nigeria,1,Male,23,5-14 years,298,HIV/AIDS,2016,2014,2554,1506
+214,Nigeria,2,Female,23,5-14 years,298,HIV/AIDS,2016,1623,2132,1177
+214,Nigeria,1,Male,24,15-49 years,298,HIV/AIDS,2016,58390,79160,40751
+214,Nigeria,2,Female,24,15-49 years,298,HIV/AIDS,2016,67759,91674,47630
+214,Nigeria,1,Male,25,50-69 years,298,HIV/AIDS,2016,13701,17697,10201
+214,Nigeria,2,Female,25,50-69 years,298,HIV/AIDS,2016,12806,16480,9418
+214,Nigeria,1,Male,26,70+ years,298,HIV/AIDS,2016,1529,2178,969
+214,Nigeria,2,Female,26,70+ years,298,HIV/AIDS,2016,872,1342,456
+80,France,1,Male,1,Under 5,491,Cardiovascular diseases,2017,24,30,18
+80,France,2,Female,1,Under 5,491,Cardiovascular diseases,2017,22,27,18
+80,France,1,Male,23,5-14 years,491,Cardiovascular diseases,2017,13,15,10
+80,France,2,Female,23,5-14 years,491,Cardiovascular diseases,2017,11,13,10
+80,France,1,Male,24,15-49 years,491,Cardiovascular diseases,2017,1755,1976,1528
+80,France,2,Female,24,15-49 years,491,Cardiovascular diseases,2017,723,823,631
+80,France,1,Male,25,50-69 years,491,Cardiovascular diseases,2017,12674,13966,11564
+80,France,2,Female,25,50-69 years,491,Cardiovascular diseases,2017,4526,5039,4047
+80,France,1,Male,26,70+ years,491,Cardiovascular diseases,2017,58149,62027,54624
+80,France,2,Female,26,70+ years,491,Cardiovascular diseases,2017,77786,83429,72973
+67,Japan,1,Male,1,Under 5,491,Cardiovascular diseases,2015,39,41,36
+67,Japan,2,Female,1,Under 5,491,Cardiovascular diseases,2015,33,35,29
+67,Japan,1,Male,23,5-14 years,491,Cardiovascular diseases,2015,27,28,25
+67,Japan,2,Female,23,5-14 years,491,Cardiovascular diseases,2015,21,22,19
+67,Japan,1,Male,24,15-49 years,491,Cardiovascular diseases,2015,4994,5138,4676
+67,Japan,2,Female,24,15-49 years,491,Cardiovascular diseases,2015,1718,1764,1672
+67,Japan,1,Male,25,50-69 years,491,Cardiovascular diseases,2015,29248,29848,28531
+67,Japan,2,Female,25,50-69 years,491,Cardiovascular diseases,2015,10022,10277,9789
+67,Japan,1,Male,26,70+ years,491,Cardiovascular diseases,2015,128129,131148,125326
+67,Japan,2,Female,26,70+ years,491,Cardiovascular diseases,2015,169034,172472,166286
+135,Brazil,1,Male,1,Under 5,491,Cardiovascular diseases,2016,473,528,425
+135,Brazil,2,Female,1,Under 5,491,Cardiovascular diseases,2016,368,409,331
+135,Brazil,1,Male,23,5-14 years,491,Cardiovascular diseases,2016,229,245,210
+135,Brazil,2,Female,23,5-14 years,491,Cardiovascular diseases,2016,192,205,178
+135,Brazil,1,Male,24,15-49 years,491,Cardiovascular diseases,2016,19074,19510,18645
+135,Brazil,2,Female,24,15-49 years,491,Cardiovascular diseases,2016,12172,12454,11924
+135,Brazil,1,Male,25,50-69 years,491,Cardiovascular diseases,2016,73065,74111,71893
+135,Brazil,2,Female,25,50-69 years,491,Cardiovascular diseases,2016,45447,46231,44671
+135,Brazil,1,Male,26,70+ years,491,Cardiovascular diseases,2016,103618,105072,101576
+135,Brazil,2,Female,26,70+ years,491,Cardiovascular diseases,2016,117268,119118,115552
+80,France,1,Male,1,Under 5,298,HIV/AIDS,2016,2,2,1
+80,France,2,Female,1,Under 5,298,HIV/AIDS,2016,3,4,3
+80,France,1,Male,23,5-14 years,298,HIV/AIDS,2016,1,2,1
+80,France,2,Female,23,5-14 years,298,HIV/AIDS,2016,2,2,2
+80,France,1,Male,24,15-49 years,298,HIV/AIDS,2016,171,184,157
+80,France,2,Female,24,15-49 years,298,HIV/AIDS,2016,78,85,73
+80,France,1,Male,25,50-69 years,298,HIV/AIDS,2016,181,196,168
+80,France,2,Female,25,50-69 years,298,HIV/AIDS,2016,49,54,45
+80,France,1,Male,26,70+ years,298,HIV/AIDS,2016,7,8,7
+80,France,2,Female,26,70+ years,298,HIV/AIDS,2016,4,4,3
+81,Germany,1,Male,1,Under 5,298,HIV/AIDS,2016,3,3,2
+81,Germany,2,Female,1,Under 5,298,HIV/AIDS,2016,4,4,3
+81,Germany,1,Male,23,5-14 years,298,HIV/AIDS,2016,2,3,2
+81,Germany,2,Female,23,5-14 years,298,HIV/AIDS,2016,2,2,1
+81,Germany,1,Male,24,15-49 years,298,HIV/AIDS,2016,170,182,158
+81,Germany,2,Female,24,15-49 years,298,HIV/AIDS,2016,55,60,51
+81,Germany,1,Male,25,50-69 years,298,HIV/AIDS,2016,186,201,173
+81,Germany,2,Female,25,50-69 years,298,HIV/AIDS,2016,42,45,38
+81,Germany,1,Male,26,70+ years,298,HIV/AIDS,2016,16,18,15
+81,Germany,2,Female,26,70+ years,298,HIV/AIDS,2016,4,4,4
+6,China,1,Male,1,Under 5,491,Cardiovascular diseases,2016,1784,2018,1629
+6,China,2,Female,1,Under 5,491,Cardiovascular diseases,2016,1133,1264,1040
+6,China,1,Male,23,5-14 years,491,Cardiovascular diseases,2016,1239,1313,1168
+6,China,2,Female,23,5-14 years,491,Cardiovascular diseases,2016,788,843,741
+6,China,1,Male,24,15-49 years,491,Cardiovascular diseases,2016,150290,158182,142474
+6,China,2,Female,24,15-49 years,491,Cardiovascular diseases,2016,56020,59513,53104
+6,China,1,Male,25,50-69 years,491,Cardiovascular diseases,2016,780818,819530,744823
+6,China,2,Female,25,50-69 years,491,Cardiovascular diseases,2016,424164,446118,402408
+6,China,1,Male,26,70+ years,491,Cardiovascular diseases,2016,1433986,1484555,1380785
+6,China,2,Female,26,70+ years,491,Cardiovascular diseases,2016,1494111,1557922,1419976
+163,India,1,Male,1,Under 5,491,Cardiovascular diseases,2016,1522,1717,1361
+163,India,2,Female,1,Under 5,491,Cardiovascular diseases,2016,1539,1731,1361
+163,India,1,Male,23,5-14 years,491,Cardiovascular diseases,2016,911,1061,760
+163,India,2,Female,23,5-14 years,491,Cardiovascular diseases,2016,1522,1774,1290
+163,India,1,Male,24,15-49 years,491,Cardiovascular diseases,2016,203585,211527,195101
+163,India,2,Female,24,15-49 years,491,Cardiovascular diseases,2016,115095,120438,108594
+163,India,1,Male,25,50-69 years,491,Cardiovascular diseases,2016,610124,631370,581445
+163,India,2,Female,25,50-69 years,491,Cardiovascular diseases,2016,428868,449562,397207
+163,India,1,Male,26,70+ years,491,Cardiovascular diseases,2016,605238,639002,554182
+163,India,2,Female,26,70+ years,491,Cardiovascular diseases,2016,615305,658929,545851
+102,United States,1,Male,23,5-14 years,298,HIV/AIDS,2015,12,12,11
+102,United States,2,Female,23,5-14 years,298,HIV/AIDS,2015,11,11,11
+102,United States,1,Male,24,15-49 years,298,HIV/AIDS,2015,2104,2135,2071
+102,United States,2,Female,24,15-49 years,298,HIV/AIDS,2015,1022,1038,1006
+102,United States,1,Male,25,50-69 years,298,HIV/AIDS,2015,2747,2799,2697
+102,United States,2,Female,25,50-69 years,298,HIV/AIDS,2015,857,872,841
+102,United States,1,Male,26,70+ years,298,HIV/AIDS,2015,167,173,162
+102,United States,2,Female,26,70+ years,298,HIV/AIDS,2015,52,53,50
+6,China,1,Male,1,Under 5,298,HIV/AIDS,2017,501,577,442
+6,China,2,Female,1,Under 5,298,HIV/AIDS,2017,398,460,346
+6,China,1,Male,23,5-14 years,298,HIV/AIDS,2017,134,155,115
+6,China,2,Female,23,5-14 years,298,HIV/AIDS,2017,105,121,90
+6,China,1,Male,24,15-49 years,298,HIV/AIDS,2017,13922,14773,13008
+6,China,2,Female,24,15-49 years,298,HIV/AIDS,2017,4457,4721,4141
+6,China,1,Male,25,50-69 years,298,HIV/AIDS,2017,8649,9170,8073
+6,China,2,Female,25,50-69 years,298,HIV/AIDS,2017,2948,3128,2737
+6,China,1,Male,26,70+ years,298,HIV/AIDS,2017,2951,3181,2693
+6,China,2,Female,26,70+ years,298,HIV/AIDS,2017,735,806,659
+67,Japan,1,Male,1,Under 5,491,Cardiovascular diseases,2017,34,38,31
+67,Japan,2,Female,1,Under 5,491,Cardiovascular diseases,2017,29,32,26
+67,Japan,1,Male,23,5-14 years,491,Cardiovascular diseases,2017,25,27,24
+67,Japan,2,Female,23,5-14 years,491,Cardiovascular diseases,2017,19,20,18
+67,Japan,1,Male,24,15-49 years,491,Cardiovascular diseases,2017,5004,5262,4657
+67,Japan,2,Female,24,15-49 years,491,Cardiovascular diseases,2017,1684,1770,1602
+67,Japan,1,Male,25,50-69 years,491,Cardiovascular diseases,2017,28616,29723,27546
+67,Japan,2,Female,25,50-69 years,491,Cardiovascular diseases,2017,9837,10279,9420
+67,Japan,1,Male,26,70+ years,491,Cardiovascular diseases,2017,140004,144535,135602
+67,Japan,2,Female,26,70+ years,491,Cardiovascular diseases,2017,182839,188157,177729
+102,United States,1,Male,23,5-14 years,298,HIV/AIDS,2016,12,12,11
+102,United States,2,Female,23,5-14 years,298,HIV/AIDS,2016,11,11,11
+102,United States,1,Male,24,15-49 years,298,HIV/AIDS,2016,2410,2453,2369
+102,United States,2,Female,24,15-49 years,298,HIV/AIDS,2016,1143,1163,1124
+102,United States,1,Male,25,50-69 years,298,HIV/AIDS,2016,2711,2767,2656
+102,United States,2,Female,25,50-69 years,298,HIV/AIDS,2016,861,880,842
+102,United States,1,Male,26,70+ years,298,HIV/AIDS,2016,161,167,156
+102,United States,2,Female,26,70+ years,298,HIV/AIDS,2016,51,52,50
+102,United States,1,Male,1,Under 5,491,Cardiovascular diseases,2017,254,273,226
+102,United States,2,Female,1,Under 5,491,Cardiovascular diseases,2017,213,227,190
+102,United States,1,Male,23,5-14 years,491,Cardiovascular diseases,2017,122,128,115
+102,United States,2,Female,23,5-14 years,491,Cardiovascular diseases,2017,113,118,106
+102,United States,1,Male,24,15-49 years,491,Cardiovascular diseases,2017,22754,23920,21721
+102,United States,2,Female,24,15-49 years,491,Cardiovascular diseases,2017,11141,11648,10620
+102,United States,1,Male,25,50-69 years,491,Cardiovascular diseases,2017,132249,136574,127951
+102,United States,2,Female,25,50-69 years,491,Cardiovascular diseases,2017,67198,69383,64984
+102,United States,1,Male,26,70+ years,491,Cardiovascular diseases,2017,300161,307872,292091
+102,United States,2,Female,26,70+ years,491,Cardiovascular diseases,2017,368067,376557,358637
+81,Germany,1,Male,1,Under 5,491,Cardiovascular diseases,2016,16,20,12
+81,Germany,2,Female,1,Under 5,491,Cardiovascular diseases,2016,13,16,10
+81,Germany,1,Male,23,5-14 years,491,Cardiovascular diseases,2016,11,13,9
+81,Germany,2,Female,23,5-14 years,491,Cardiovascular diseases,2016,11,13,9
+81,Germany,1,Male,24,15-49 years,491,Cardiovascular diseases,2016,3419,3775,3077
+81,Germany,2,Female,24,15-49 years,491,Cardiovascular diseases,2016,1296,1452,1147
+81,Germany,1,Male,25,50-69 years,491,Cardiovascular diseases,2016,29691,32101,27434
+81,Germany,2,Female,25,50-69 years,491,Cardiovascular diseases,2016,11127,12235,10105
+81,Germany,1,Male,26,70+ years,491,Cardiovascular diseases,2016,132341,140403,124947
+81,Germany,2,Female,26,70+ years,491,Cardiovascular diseases,2016,182639,193004,172470
+214,Nigeria,1,Male,1,Under 5,491,Cardiovascular diseases,2016,1443,1926,1028
+214,Nigeria,2,Female,1,Under 5,491,Cardiovascular diseases,2016,1390,1821,1006
+214,Nigeria,1,Male,23,5-14 years,491,Cardiovascular diseases,2016,413,551,301
+214,Nigeria,2,Female,23,5-14 years,491,Cardiovascular diseases,2016,272,358,195
+214,Nigeria,1,Male,24,15-49 years,491,Cardiovascular diseases,2016,6020,8991,4073
+214,Nigeria,2,Female,24,15-49 years,491,Cardiovascular diseases,2016,5047,7808,3073
+214,Nigeria,1,Male,25,50-69 years,491,Cardiovascular diseases,2016,17769,25456,12848
+214,Nigeria,2,Female,25,50-69 years,491,Cardiovascular diseases,2016,17936,25624,11717
+214,Nigeria,1,Male,26,70+ years,491,Cardiovascular diseases,2016,33248,41665,26783
+214,Nigeria,2,Female,26,70+ years,491,Cardiovascular diseases,2016,36078,47428,25864
+81,Germany,1,Male,1,Under 5,298,HIV/AIDS,2017,2,3,2
+81,Germany,2,Female,1,Under 5,298,HIV/AIDS,2017,4,4,3
+81,Germany,1,Male,23,5-14 years,298,HIV/AIDS,2017,2,2,2
+81,Germany,2,Female,23,5-14 years,298,HIV/AIDS,2017,1,2,1
+81,Germany,1,Male,24,15-49 years,298,HIV/AIDS,2017,163,175,151
+81,Germany,2,Female,24,15-49 years,298,HIV/AIDS,2017,53,57,49
+81,Germany,1,Male,25,50-69 years,298,HIV/AIDS,2017,180,194,167
+81,Germany,2,Female,25,50-69 years,298,HIV/AIDS,2017,40,44,37
+81,Germany,1,Male,26,70+ years,298,HIV/AIDS,2017,15,16,14
+81,Germany,2,Female,26,70+ years,298,HIV/AIDS,2017,4,4,3
+80,France,1,Male,1,Under 5,298,HIV/AIDS,2017,2,2,1
+80,France,2,Female,1,Under 5,298,HIV/AIDS,2017,3,4,3
+80,France,1,Male,23,5-14 years,298,HIV/AIDS,2017,1,2,1
+80,France,2,Female,23,5-14 years,298,HIV/AIDS,2017,2,2,2
+80,France,1,Male,24,15-49 years,298,HIV/AIDS,2017,169,184,157
+80,France,2,Female,24,15-49 years,298,HIV/AIDS,2017,77,83,71
+80,France,1,Male,25,50-69 years,298,HIV/AIDS,2017,178,193,163
+80,France,2,Female,25,50-69 years,298,HIV/AIDS,2017,48,53,44
+80,France,1,Male,26,70+ years,298,HIV/AIDS,2017,7,8,7
+80,France,2,Female,26,70+ years,298,HIV/AIDS,2017,4,4,3
+102,United States,1,Male,1,Under 5,298,HIV/AIDS,2015,29,30,28
+102,United States,2,Female,1,Under 5,298,HIV/AIDS,2015,29,29,28
+67,Japan,1,Male,1,Under 5,298,HIV/AIDS,2017,6,6,6
+67,Japan,2,Female,1,Under 5,298,HIV/AIDS,2017,4,4,4
+67,Japan,1,Male,23,5-14 years,298,HIV/AIDS,2017,2,2,2
+67,Japan,2,Female,23,5-14 years,298,HIV/AIDS,2017,1,1,1
+67,Japan,1,Male,24,15-49 years,298,HIV/AIDS,2017,43,45,42
+67,Japan,2,Female,24,15-49 years,298,HIV/AIDS,2017,15,15,14
+67,Japan,1,Male,25,50-69 years,298,HIV/AIDS,2017,89,92,86
+67,Japan,2,Female,25,50-69 years,298,HIV/AIDS,2017,37,38,36
+67,Japan,1,Male,26,70+ years,298,HIV/AIDS,2017,7,7,7
+67,Japan,2,Female,26,70+ years,298,HIV/AIDS,2017,3,3,3
+67,Japan,1,Male,1,Under 5,298,HIV/AIDS,2014,6,6,6
+67,Japan,2,Female,1,Under 5,298,HIV/AIDS,2014,5,5,5
+67,Japan,1,Male,23,5-14 years,298,HIV/AIDS,2014,2,2,2
+67,Japan,2,Female,23,5-14 years,298,HIV/AIDS,2014,1,1,1
+67,Japan,1,Male,24,15-49 years,298,HIV/AIDS,2014,44,45,43
+67,Japan,2,Female,24,15-49 years,298,HIV/AIDS,2014,17,17,16
+67,Japan,1,Male,25,50-69 years,298,HIV/AIDS,2014,89,91,86
+67,Japan,2,Female,25,50-69 years,298,HIV/AIDS,2014,40,41,39
+67,Japan,1,Male,26,70+ years,298,HIV/AIDS,2014,6,6,6
+67,Japan,2,Female,26,70+ years,298,HIV/AIDS,2014,4,4,3
+80,France,1,Male,1,Under 5,298,HIV/AIDS,2014,2,2,1
+80,France,2,Female,1,Under 5,298,HIV/AIDS,2014,3,3,3
+80,France,1,Male,23,5-14 years,298,HIV/AIDS,2014,1,1,1
+80,France,2,Female,23,5-14 years,298,HIV/AIDS,2014,2,2,1
+80,France,1,Male,24,15-49 years,298,HIV/AIDS,2014,135,144,126
+80,France,2,Female,24,15-49 years,298,HIV/AIDS,2014,68,73,63
+80,France,1,Male,25,50-69 years,298,HIV/AIDS,2014,172,183,161
+80,France,2,Female,25,50-69 years,298,HIV/AIDS,2014,42,46,39
+80,France,1,Male,26,70+ years,298,HIV/AIDS,2014,6,7,6
+80,France,2,Female,26,70+ years,298,HIV/AIDS,2014,3,3,3
+6,China,1,Male,1,Under 5,298,HIV/AIDS,2015,490,559,435
+6,China,2,Female,1,Under 5,298,HIV/AIDS,2015,389,448,342
+6,China,1,Male,23,5-14 years,298,HIV/AIDS,2015,138,160,118
+6,China,2,Female,23,5-14 years,298,HIV/AIDS,2015,110,127,94
+6,China,1,Male,24,15-49 years,298,HIV/AIDS,2015,12447,12818,11996
+6,China,2,Female,24,15-49 years,298,HIV/AIDS,2015,3999,4127,3852
+6,China,1,Male,25,50-69 years,298,HIV/AIDS,2015,6504,6828,6079
+6,China,2,Female,25,50-69 years,298,HIV/AIDS,2015,2174,2270,2063
+6,China,1,Male,26,70+ years,298,HIV/AIDS,2015,2212,2386,1996
+6,China,2,Female,26,70+ years,298,HIV/AIDS,2015,486,523,445
+163,India,1,Male,1,Under 5,298,HIV/AIDS,2017,1181,1395,991
+163,India,2,Female,1,Under 5,298,HIV/AIDS,2017,1081,1272,908
+163,India,1,Male,23,5-14 years,298,HIV/AIDS,2017,485,551,427
+163,India,2,Female,23,5-14 years,298,HIV/AIDS,2017,496,566,434
+163,India,1,Male,24,15-49 years,298,HIV/AIDS,2017,22173,23738,20752
+163,India,2,Female,24,15-49 years,298,HIV/AIDS,2017,18449,19891,17166
+163,India,1,Male,25,50-69 years,298,HIV/AIDS,2017,4751,5308,4219
+163,India,2,Female,25,50-69 years,298,HIV/AIDS,2017,3307,3660,2973
+163,India,1,Male,26,70+ years,298,HIV/AIDS,2017,112,133,93
+163,India,2,Female,26,70+ years,298,HIV/AIDS,2017,69,84,57
+81,Germany,1,Male,1,Under 5,298,HIV/AIDS,2014,2,3,2
+81,Germany,2,Female,1,Under 5,298,HIV/AIDS,2014,4,5,4
+81,Germany,1,Male,23,5-14 years,298,HIV/AIDS,2014,2,2,2
+81,Germany,2,Female,23,5-14 years,298,HIV/AIDS,2014,2,2,2
+81,Germany,1,Male,24,15-49 years,298,HIV/AIDS,2014,172,183,162
+81,Germany,2,Female,24,15-49 years,298,HIV/AIDS,2014,58,61,54
+81,Germany,1,Male,25,50-69 years,298,HIV/AIDS,2014,186,198,175
+81,Germany,2,Female,25,50-69 years,298,HIV/AIDS,2014,53,58,49
+81,Germany,1,Male,26,70+ years,298,HIV/AIDS,2014,17,19,16
+81,Germany,2,Female,26,70+ years,298,HIV/AIDS,2014,5,6,5
+135,Brazil,1,Male,1,Under 5,298,HIV/AIDS,2015,238,250,226
+135,Brazil,2,Female,1,Under 5,298,HIV/AIDS,2015,169,179,161
+135,Brazil,1,Male,23,5-14 years,298,HIV/AIDS,2015,84,88,81
+135,Brazil,2,Female,23,5-14 years,298,HIV/AIDS,2015,89,93,85
+135,Brazil,1,Male,24,15-49 years,298,HIV/AIDS,2015,6779,6883,6678
+135,Brazil,2,Female,24,15-49 years,298,HIV/AIDS,2015,3688,3760,3621
+135,Brazil,1,Male,25,50-69 years,298,HIV/AIDS,2015,2769,2830,2707
+135,Brazil,2,Female,25,50-69 years,298,HIV/AIDS,2015,1312,1351,1274
+135,Brazil,1,Male,26,70+ years,298,HIV/AIDS,2015,184,192,176
+135,Brazil,2,Female,26,70+ years,298,HIV/AIDS,2015,96,101,91
+135,Brazil,1,Male,1,Under 5,491,Cardiovascular diseases,2014,552,614,496
+135,Brazil,2,Female,1,Under 5,491,Cardiovascular diseases,2014,434,484,393
+135,Brazil,1,Male,23,5-14 years,491,Cardiovascular diseases,2014,259,277,238
+135,Brazil,2,Female,23,5-14 years,491,Cardiovascular diseases,2014,208,221,194
+135,Brazil,1,Male,24,15-49 years,491,Cardiovascular diseases,2014,19165,19566,18759
+135,Brazil,2,Female,24,15-49 years,491,Cardiovascular diseases,2014,11918,12176,11692
+135,Brazil,1,Male,25,50-69 years,491,Cardiovascular diseases,2014,68790,69801,67786
+135,Brazil,2,Female,25,50-69 years,491,Cardiovascular diseases,2014,42467,43209,41793
+135,Brazil,1,Male,26,70+ years,491,Cardiovascular diseases,2014,96645,97965,94884
+135,Brazil,2,Female,26,70+ years,491,Cardiovascular diseases,2014,109036,110565,107596
+214,Nigeria,1,Male,1,Under 5,298,HIV/AIDS,2015,11472,15813,7617
+214,Nigeria,2,Female,1,Under 5,298,HIV/AIDS,2015,10981,15035,7500
+214,Nigeria,1,Male,23,5-14 years,298,HIV/AIDS,2015,2200,2820,1637
+214,Nigeria,2,Female,23,5-14 years,298,HIV/AIDS,2015,1754,2299,1276
+214,Nigeria,1,Male,24,15-49 years,298,HIV/AIDS,2015,60297,81614,42457
+214,Nigeria,2,Female,24,15-49 years,298,HIV/AIDS,2015,70299,94712,49545
+214,Nigeria,1,Male,25,50-69 years,298,HIV/AIDS,2015,13864,17813,10385
+214,Nigeria,2,Female,25,50-69 years,298,HIV/AIDS,2015,12788,16333,9518
+214,Nigeria,1,Male,26,70+ years,298,HIV/AIDS,2015,1597,2271,1016
+214,Nigeria,2,Female,26,70+ years,298,HIV/AIDS,2015,923,1416,483
+214,Nigeria,1,Male,1,Under 5,491,Cardiovascular diseases,2017,1399,1877,974
+214,Nigeria,2,Female,1,Under 5,491,Cardiovascular diseases,2017,1349,1786,972
+214,Nigeria,1,Male,23,5-14 years,491,Cardiovascular diseases,2017,414,550,301
+214,Nigeria,2,Female,23,5-14 years,491,Cardiovascular diseases,2017,274,361,195
+214,Nigeria,1,Male,24,15-49 years,491,Cardiovascular diseases,2017,6133,9230,4178
+214,Nigeria,2,Female,24,15-49 years,491,Cardiovascular diseases,2017,5183,7974,3196
+214,Nigeria,1,Male,25,50-69 years,491,Cardiovascular diseases,2017,18190,26027,13299
+214,Nigeria,2,Female,25,50-69 years,491,Cardiovascular diseases,2017,19023,27445,12469
+214,Nigeria,1,Male,26,70+ years,491,Cardiovascular diseases,2017,33579,42006,27164
+214,Nigeria,2,Female,26,70+ years,491,Cardiovascular diseases,2017,36975,48373,26715
+67,Japan,1,Male,1,Under 5,491,Cardiovascular diseases,2016,37,40,33
+67,Japan,2,Female,1,Under 5,491,Cardiovascular diseases,2016,31,34,28
+67,Japan,1,Male,23,5-14 years,491,Cardiovascular diseases,2016,26,27,24
+67,Japan,2,Female,23,5-14 years,491,Cardiovascular diseases,2016,21,22,19
+67,Japan,1,Male,24,15-49 years,491,Cardiovascular diseases,2016,5010,5203,4672
+67,Japan,2,Female,24,15-49 years,491,Cardiovascular diseases,2016,1702,1766,1642
+67,Japan,1,Male,25,50-69 years,491,Cardiovascular diseases,2016,29394,30182,28538
+67,Japan,2,Female,25,50-69 years,491,Cardiovascular diseases,2016,10029,10369,9703
+67,Japan,1,Male,26,70+ years,491,Cardiovascular diseases,2016,133931,137118,130726
+67,Japan,2,Female,26,70+ years,491,Cardiovascular diseases,2016,175387,179557,171738
+163,India,1,Male,1,Under 5,491,Cardiovascular diseases,2014,1762,1973,1576
+163,India,2,Female,1,Under 5,491,Cardiovascular diseases,2014,1817,2040,1625
+163,India,1,Male,23,5-14 years,491,Cardiovascular diseases,2014,1130,1312,947
+163,India,2,Female,23,5-14 years,491,Cardiovascular diseases,2014,1856,2148,1566
+163,India,1,Male,24,15-49 years,491,Cardiovascular diseases,2014,202152,209784,194262
+163,India,2,Female,24,15-49 years,491,Cardiovascular diseases,2014,110154,114904,104113
+163,India,1,Male,25,50-69 years,491,Cardiovascular diseases,2014,585512,604662,557278
+163,India,2,Female,25,50-69 years,491,Cardiovascular diseases,2014,385088,402686,356459
+163,India,1,Male,26,70+ years,491,Cardiovascular diseases,2014,574660,604727,523267
+163,India,2,Female,26,70+ years,491,Cardiovascular diseases,2014,554227,596495,492697
+214,Nigeria,1,Male,1,Under 5,298,HIV/AIDS,2017,8080,11343,5452
+214,Nigeria,2,Female,1,Under 5,298,HIV/AIDS,2017,7744,10505,5507
+214,Nigeria,1,Male,23,5-14 years,298,HIV/AIDS,2017,2137,2701,1629
+214,Nigeria,2,Female,23,5-14 years,298,HIV/AIDS,2017,1724,2254,1276
+214,Nigeria,1,Male,24,15-49 years,298,HIV/AIDS,2017,56477,76346,39491
+214,Nigeria,2,Female,24,15-49 years,298,HIV/AIDS,2017,64715,87383,45317
+214,Nigeria,1,Male,25,50-69 years,298,HIV/AIDS,2017,13479,17565,9988
+214,Nigeria,2,Female,25,50-69 years,298,HIV/AIDS,2017,12514,16492,8853
+214,Nigeria,1,Male,26,70+ years,298,HIV/AIDS,2017,1431,2063,902
+214,Nigeria,2,Female,26,70+ years,298,HIV/AIDS,2017,801,1256,411
+135,Brazil,1,Male,1,Under 5,491,Cardiovascular diseases,2017,439,494,389
+135,Brazil,2,Female,1,Under 5,491,Cardiovascular diseases,2017,341,382,305
+135,Brazil,1,Male,23,5-14 years,491,Cardiovascular diseases,2017,222,240,203
+135,Brazil,2,Female,23,5-14 years,491,Cardiovascular diseases,2017,187,201,172
+135,Brazil,1,Male,24,15-49 years,491,Cardiovascular diseases,2017,19500,20029,18999
+135,Brazil,2,Female,24,15-49 years,491,Cardiovascular diseases,2017,12499,12827,12198
+135,Brazil,1,Male,25,50-69 years,491,Cardiovascular diseases,2017,76230,77569,74808
+135,Brazil,2,Female,25,50-69 years,491,Cardiovascular diseases,2017,47553,48543,46554
+135,Brazil,1,Male,26,70+ years,491,Cardiovascular diseases,2017,107890,109643,105830
+135,Brazil,2,Female,26,70+ years,491,Cardiovascular diseases,2017,123407,125628,121315
+135,Brazil,1,Male,1,Under 5,298,HIV/AIDS,2017,217,229,206
+135,Brazil,2,Female,1,Under 5,298,HIV/AIDS,2017,170,180,161
+135,Brazil,1,Male,23,5-14 years,298,HIV/AIDS,2017,86,90,83
+135,Brazil,2,Female,23,5-14 years,298,HIV/AIDS,2017,82,86,79
+135,Brazil,1,Male,24,15-49 years,298,HIV/AIDS,2017,6632,6785,6486
+135,Brazil,2,Female,24,15-49 years,298,HIV/AIDS,2017,3715,3813,3623
+135,Brazil,1,Male,25,50-69 years,298,HIV/AIDS,2017,2845,2934,2758
+135,Brazil,2,Female,25,50-69 years,298,HIV/AIDS,2017,1361,1412,1314
+135,Brazil,1,Male,26,70+ years,298,HIV/AIDS,2017,191,202,182
+135,Brazil,2,Female,26,70+ years,298,HIV/AIDS,2017,104,111,98
+102,United States,1,Male,1,Under 5,298,HIV/AIDS,2016,29,29,28
+102,United States,2,Female,1,Under 5,298,HIV/AIDS,2016,27,27,26
+102,United States,1,Male,1,Under 5,491,Cardiovascular diseases,2015,267,283,237
+102,United States,2,Female,1,Under 5,491,Cardiovascular diseases,2015,224,239,200
+102,United States,1,Male,23,5-14 years,491,Cardiovascular diseases,2015,124,129,118
+102,United States,2,Female,23,5-14 years,491,Cardiovascular diseases,2015,109,114,103
+102,United States,1,Male,24,15-49 years,491,Cardiovascular diseases,2015,21851,22325,21363
+102,United States,2,Female,24,15-49 years,491,Cardiovascular diseases,2015,10934,11164,10634
+102,United States,1,Male,25,50-69 years,491,Cardiovascular diseases,2015,125106,126452,123539
+102,United States,2,Female,25,50-69 years,491,Cardiovascular diseases,2015,63960,64790,63101
+102,United States,1,Male,26,70+ years,491,Cardiovascular diseases,2015,280471,284032,276772
+102,United States,2,Female,26,70+ years,491,Cardiovascular diseases,2015,354214,357615,351136
+214,Nigeria,1,Male,1,Under 5,491,Cardiovascular diseases,2014,1334,1775,988
+214,Nigeria,2,Female,1,Under 5,491,Cardiovascular diseases,2014,1316,1685,977
+214,Nigeria,1,Male,23,5-14 years,491,Cardiovascular diseases,2014,373,504,274
+214,Nigeria,2,Female,23,5-14 years,491,Cardiovascular diseases,2014,241,320,172
+214,Nigeria,1,Male,24,15-49 years,491,Cardiovascular diseases,2014,5589,8411,3724
+214,Nigeria,2,Female,24,15-49 years,491,Cardiovascular diseases,2014,4720,7312,2798
+214,Nigeria,1,Male,25,50-69 years,491,Cardiovascular diseases,2014,16603,23853,11726
+214,Nigeria,2,Female,25,50-69 years,491,Cardiovascular diseases,2014,15860,22924,10172
+214,Nigeria,1,Male,26,70+ years,491,Cardiovascular diseases,2014,31704,39976,25337
+214,Nigeria,2,Female,26,70+ years,491,Cardiovascular diseases,2014,34174,45191,23966
+80,France,1,Male,1,Under 5,491,Cardiovascular diseases,2016,25,30,20
+80,France,2,Female,1,Under 5,491,Cardiovascular diseases,2016,23,27,20
+80,France,1,Male,23,5-14 years,491,Cardiovascular diseases,2016,13,15,11
+80,France,2,Female,23,5-14 years,491,Cardiovascular diseases,2016,12,14,10
+80,France,1,Male,24,15-49 years,491,Cardiovascular diseases,2016,1795,1974,1613
+80,France,2,Female,24,15-49 years,491,Cardiovascular diseases,2016,729,805,661
+80,France,1,Male,25,50-69 years,491,Cardiovascular diseases,2016,12725,13541,11967
+80,France,2,Female,25,50-69 years,491,Cardiovascular diseases,2016,4497,4850,4175
+80,France,1,Male,26,70+ years,491,Cardiovascular diseases,2016,56748,59255,54286
+80,France,2,Female,26,70+ years,491,Cardiovascular diseases,2016,75415,78765,72423
+163,India,1,Male,1,Under 5,491,Cardiovascular diseases,2017,1372,1547,1218
+163,India,2,Female,1,Under 5,491,Cardiovascular diseases,2017,1391,1585,1218
+163,India,1,Male,23,5-14 years,491,Cardiovascular diseases,2017,863,1007,716
+163,India,2,Female,23,5-14 years,491,Cardiovascular diseases,2017,1455,1702,1226
+163,India,1,Male,24,15-49 years,491,Cardiovascular diseases,2017,203996,212910,194800
+163,India,2,Female,24,15-49 years,491,Cardiovascular diseases,2017,115458,121256,108862
+163,India,1,Male,25,50-69 years,491,Cardiovascular diseases,2017,619343,643071,588988
+163,India,2,Female,25,50-69 years,491,Cardiovascular diseases,2017,434755,456308,402712
+163,India,1,Male,26,70+ years,491,Cardiovascular diseases,2017,624394,659049,569068
+163,India,2,Female,26,70+ years,491,Cardiovascular diseases,2017,629753,675614,557868
+102,United States,1,Male,23,5-14 years,298,HIV/AIDS,2017,12,12,11
+102,United States,2,Female,23,5-14 years,298,HIV/AIDS,2017,11,11,10
+102,United States,1,Male,24,15-49 years,298,HIV/AIDS,2017,2424,2470,2379
+102,United States,2,Female,24,15-49 years,298,HIV/AIDS,2017,1143,1163,1124
+102,United States,1,Male,25,50-69 years,298,HIV/AIDS,2017,2644,2702,2587
+102,United States,2,Female,25,50-69 years,298,HIV/AIDS,2017,838,858,821
+102,United States,1,Male,26,70+ years,298,HIV/AIDS,2017,165,171,160
+102,United States,2,Female,26,70+ years,298,HIV/AIDS,2017,52,54,51
+163,India,1,Male,1,Under 5,298,HIV/AIDS,2016,1278,1497,1088
+163,India,2,Female,1,Under 5,298,HIV/AIDS,2016,1172,1378,1003
+163,India,1,Male,23,5-14 years,298,HIV/AIDS,2016,551,618,486
+163,India,2,Female,23,5-14 years,298,HIV/AIDS,2016,588,666,518
+163,India,1,Male,24,15-49 years,298,HIV/AIDS,2016,25513,27310,23861
+163,India,2,Female,24,15-49 years,298,HIV/AIDS,2016,21795,23442,20356
+163,India,1,Male,25,50-69 years,298,HIV/AIDS,2016,5018,5634,4452
+163,India,2,Female,25,50-69 years,298,HIV/AIDS,2016,3839,4239,3466
+163,India,1,Male,26,70+ years,298,HIV/AIDS,2016,105,125,88
+163,India,2,Female,26,70+ years,298,HIV/AIDS,2016,79,93,66
+6,China,1,Male,1,Under 5,491,Cardiovascular diseases,2017,1595,1816,1436
+6,China,2,Female,1,Under 5,491,Cardiovascular diseases,2017,1008,1139,913
+6,China,1,Male,23,5-14 years,491,Cardiovascular diseases,2017,1099,1173,1035
+6,China,2,Female,23,5-14 years,491,Cardiovascular diseases,2017,688,747,647
+6,China,1,Male,24,15-49 years,491,Cardiovascular diseases,2017,146209,154681,138112
+6,China,2,Female,24,15-49 years,491,Cardiovascular diseases,2017,53400,57029,50290
+6,China,1,Male,25,50-69 years,491,Cardiovascular diseases,2017,756799,793364,721053
+6,China,2,Female,25,50-69 years,491,Cardiovascular diseases,2017,409434,432343,388848
+6,China,1,Male,26,70+ years,491,Cardiovascular diseases,2017,1500257,1556912,1441651
+6,China,2,Female,26,70+ years,491,Cardiovascular diseases,2017,1507483,1576008,1431041
+81,Germany,1,Male,1,Under 5,491,Cardiovascular diseases,2017,15,20,12
+81,Germany,2,Female,1,Under 5,491,Cardiovascular diseases,2017,13,17,10
+81,Germany,1,Male,23,5-14 years,491,Cardiovascular diseases,2017,11,14,9
+81,Germany,2,Female,23,5-14 years,491,Cardiovascular diseases,2017,10,13,9
+81,Germany,1,Male,24,15-49 years,491,Cardiovascular diseases,2017,3362,3934,2809
+81,Germany,2,Female,24,15-49 years,491,Cardiovascular diseases,2017,1289,1547,1059
+81,Germany,1,Male,25,50-69 years,491,Cardiovascular diseases,2017,29872,34373,25871
+81,Germany,2,Female,25,50-69 years,491,Cardiovascular diseases,2017,11163,13242,9408
+81,Germany,1,Male,26,70+ years,491,Cardiovascular diseases,2017,131929,146763,118525
+81,Germany,2,Female,26,70+ years,491,Cardiovascular diseases,2017,178697,199110,159010
